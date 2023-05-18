@@ -1,0 +1,3667 @@
+/* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+ @media (min-width: 1440px) and (max-width: 1600px) {
+     .em_sc_100 {
+         margin-top: 15px;
+    }
+     .em_slider_s2_image_inner img{
+         width:100%;
+    }
+}
+/* ------------------------------------------------- Large Screen. 1440 ---------------------------------------------------*/
+ @media (min-width: 1440px) and (max-width: 1600px) {
+  	.about_writ_inner {
+		padding: 50px 45px 50px 0;
+		width: 80%;
+	}   
+     
+ }
+/* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+ @media (min-width: 1200px) and (max-width: 1439px) {
+	 .poket-header-top .container-fluid {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.witr_sw_text_area {
+		width: 85%;
+	}
+	 .poket_nav_area{
+		padding-right: 40px !important;
+		padding-left: 40px !important;
+	}
+	.poket-header-top {
+		padding: 10px 55px;
+	}
+	.surgery_poket_slider2_area {
+		padding: 90px 0px 90px;
+	}
+	.slider2_content_area .witr_section_title_inner h3, .slider2_content_area .witr_section_title_inner h1 {
+		font-size: 52px;
+		margin:0;
+		line-height: 1;
+	}
+	.slider2_content_area .witr_section_title_inner h2 {
+		font-size: 24px;
+		margin-bottom:15px;
+	}
+	.slider2_content_area {
+		margin: 0px 0px 0px 60px;
+		padding: 90px 0px 155px 55px;
+	}
+	.slider2_content_area .witr_section_title_inner p {
+		width: 74%;
+		margin-right: auto;
+		margin-left: 0;
+	}
+	.slider2_content_area .witr_section_title_inner p {
+		margin-top: 30px;
+	}
+	.witr_ds_content_area .witr_ds_content_inner {
+		width: 90%;
+	}
+	.witr_ds_content_area .witr_ds_slider_content h2, .witr_ds_content_area .witr_ds_slider_content h3 {
+		font-size: 48px;
+	}
+	.witr_slick_list {
+		width: 38%;
+	}
+	.witr_ds_content_area .witr_slider_thumb {
+		right: -294px !important;
+	}
+	.poket_accordion_area.home2_accordion_area {
+		padding: 55px 40px 0px 40px;
+	}
+     .text-left .em_slider_s2_content {
+         margin-right: 10%;
+    }
+     .text-right .em_slider_s2_content {
+         margin-left: 10%;
+    }
+     .em-slider-sub-title {
+         line-height: 64px;
+    }
+     .em_sc_100 {
+         margin-top: 15px;
+    }
+     .em_slider_s2_image_inner img{
+         width:100%;
+    }
+     .text-right .witr_slider_thumb {
+         left: 0px;
+    }
+     .text-left .witr_slider_thumb {
+         right: -150px;
+    }
+     .em_slider_s2_image img {
+         width: 70%;
+    }
+     .poket_menu > ul > li > a {
+         margin: 38px 9px 38px;
+         font-size: 19px;
+    }
+	.about_writ_inner {
+		 width: 100%; 
+	}
+	.about_writ_inner {
+		padding: 50px 45px 50px 0;
+	}
+	.about_writ_inner .witr_section_title_inner h3 {
+		font-size: 38px;
+	}
+	.poket_accordion_area.meet_doctors_accordion,
+	.poket_accordion_area {
+		padding: 73px 0px 30px 0px;
+	}
+     .text-left .witrscontainer h1, .text-left .witrscontainer h2, .text-left .witrscontainer h3, .text-left .witr_slicks_title h4, .text-left .witrscontainer p {
+         width: 51%;
+    }
+     .text-right .witrscontainer h1, .text-right .witrscontainer h2, .text-right .witrscontainer h3, .text-right .witr_slicks_title h4, .text-right .witrscontainer p {
+         width: 51%;
+    }
+	.about_style2_process_area .single_image.single_line_option img {
+		margin: 24px 0 0;
+	}
+	.em_service_area .all_icon_color i {
+		top: 130px;
+		left: 300px;
+	}
+	.dental_choose_area .video-overlay.witr_all_color_v {
+		padding: 70px 0;
+	}
+	.witr_content_pslide_text a {
+		font-size: 19px;
+	}
+	.ps2.ps1 .witr_content_pslide_text {
+		left: 20px;
+	}
+	.poket_accordion_area .single_image_area {
+		margin-top: 70px;
+	}
+	.poket_compair_area .witr_section_title_inner p {
+		padding-right: 38px;
+	}
+	.surgery_doct_about_area .witr_section_title_inner p {
+		padding-right: 61px;
+	}
+	.surgery_doct_about_area .testimonial-image {
+		margin-left: 0px;
+	}
+	.surgery_doct_choose  .witr_text_widget p {
+		margin: 0px 83px 23px 0px;
+	}
+	/* call to action css */
+	.herbal_call_action {
+		padding: 95px 30px 70px;
+	}
+	.herbal_call_action .poket_content p {
+		width: 85%;
+	}
+	.faq_area2 .accordion_left_img {
+		margin-left: 0;
+	}
+	.accordion_area {
+		margin-left: 0;
+	}
+	.poket_call_to_action {
+		padding: 54px 0px 54px 15px;
+	}
+	.call_to_action_right_btn_inner {
+		padding: 14px 0px;
+		text-align: right;
+	}
+	.dental_togole_area {
+		padding: 95px 0 210px 40px;
+	}
+	
+	
+	
+}
+/* ------------------------------------------------- Old Desktop :1365-1660 ---------------------------------------------------*/
+ @media (min-width: 1365px) and (max-width: 1660px) {
+     .poket_nav_area, .poket-header-top {
+         padding-right: 50px !important;
+         padding-left: 50px !important;
+    }
+	.witr_ds_content_inner {
+		width: 88%;
+	}
+	#scrollUp {
+		right: 90px;
+		bottom: 77px;
+	}
+	.footer-bottom:before {
+		width: 86%;
+	}
+    /* swiper slider */
+     .witr_swiper_area .text-right .witr_slider_thumb {
+         left: -95px !important;
+    }
+     .witr_swiper_area .text-left .witr_slider_thumb {
+         right: -95px !important;
+    }
+     .witr_swiper_height {
+         width: 100% !important;
+    }
+     .w_slider_3 .witr_swiper_height {
+         width: 100% !important;
+         transform: translateX(-50%) !important;
+         left: 15%;
+    }
+	
+	.witr_sw_text_area {
+		width: 87%;
+	}
+	
+	
+	
+	
+	
+}
+/* ------------------------------------------------- Large Screen. 1024 ---------------------------------------------------*/
+ @media (min-width: 1024px) and (max-width: 1600px) {
+     .em-nivo-slider-wrapper:hover .nivo-directionNav a {
+         left: 5px;
+    }
+     .em-nivo-slider-wrapper:hover .nivo-directionNav .nivo-nextNav {
+         right: 5px;
+    }
+    /* banner area css */
+     .witr_banner_content.text-right {
+         margin-right: 20px;
+    }
+     .witr_banner_content p {
+         width: 60%;
+    }
+     .em_slider_social {
+         top: 45%;
+    }
+}
+/* ------------------------------------------------- Laptop Screen 1366 ---------------------------------------------------*/
+ @media (min-width: 1170px) and (max-width: 1366px) {
+     .em_creative_header:after {
+         -webkit-transform: rotate(-114deg);
+         transform: rotate(-114deg);
+    }
+     .creative_header_address {
+         padding-left: 0;
+    }
+    /* banner area css */
+     .witr_banner_content p {
+         width: 70%;
+    }
+}
+
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+ @media (min-width: 992px) and (max-width: 1364px) {
+     .witr_b9{
+         margin-top: 100px;
+    }
+}
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+ @media (min-width: 992px) and (max-width: 1199px) {
+	.surgery_poket_slider2_area {
+		padding: 50px 0px 50px;
+	}
+	.poket_nav_area {
+		padding-right: 20px !important;
+		padding-left: 20px !important;
+	}
+	.poket-header-top {
+		padding: 10px 20px;
+	}
+	.dental_surgery_swiper .witr_swiper_height {
+		height: 600px;
+	}
+	.dental_surgery_swiper .witr_swiper_content h2, .dental_surgery_swiper .witr_swiper_content h3 {
+		font-size: 40px;
+	}
+	.witr_ds_content_area .witr_ds_content {
+		height: 650px;
+	}
+	.witr_ds_content_area .witr_ds_slider_content h2, .witr_ds_content_area .witr_ds_slider_content h3 {
+		font-size: 48px;
+	}
+	.witr_slick_list {
+		margin-top: 40px;
+		width: 58%;
+	}
+	.witr_ds_content_area .witr_slider_thumb {
+		display: none;
+	}
+	.plastic_surgery_swiper .witr_swiper_height {
+		height: 500px;
+	}
+	.plastic_surgery_swiper .witr_swiper_content h2, .plastic_surgery_swiper .witr_swiper_content h3 {
+		font-size: 55px;
+		font-weight: 800;
+		line-height: 1.2;
+	}
+	.herbal_swiper_area .witr_swiper_height {
+		height: 500px;
+		background-position: center left;
+	}
+	.medi_equp_swi_area .witr_swiper_height {
+		height: 550px;
+		background-position: center left;
+	}
+	.medi_equp_swi_area .witr_swiper_content h2, .medi_equp_swi_area .witr_swiper_content h3 {
+		font-size: 40px;
+	}
+     .em_creative_header::before {
+         width: 19%;
+    }
+     .em_creative_header::after {
+         display: none;
+    }
+    /* swiper slider */
+		.witr_sw_text_area {
+			width: 88%;
+		}
+		.about_page_area_about .all_color_service {
+		padding: 23px 13px 40px;
+		margin: 15px 6px 10px;
+	}
+	.home2_swiper_area .witr_swiper_height {
+		background-position: center left;
+		background-size: cover;
+	}
+     .witr_swiper_height {
+         width: 100% !important;
+    }
+     .witr_swiper_content h2, .witr_swiper_content h3 {
+         font-size: 54px;
+    }
+	.service_inner_content p {
+		padding: 20px 0px 30px 0px;
+	}
+	.witr_section_title_inner h1, .witr_section_title_inner h2, .witr_section_title_inner h3 {
+		font-size: 35px;
+	}
+	.em_process_area .witr_section_title_inner.text-center p {
+		width: 72%;
+	}
+	.witr_section_title_inner h2 {
+		font-size: 17px;
+	}
+	.counter2_inner_area {
+		margin-left: -32px;
+		margin-right: -32px;
+	}
+	.mc4wp-form-fields button {
+		padding: 21px 48px;
+	}
+	.mc4wp-form-fields button {
+		margin-left: 10px;
+	}
+	.slider2_content_area {
+		margin: 0px -380px 0px 35px;
+		padding: 90px 0px 155px 70px;
+	}
+	.slider2_content_area .witr_section_title_inner h3 {
+		font-size: 60px;
+	}
+	.slider2_content_area  .witr_section_title_inner h1 {
+		font-size: 60px;
+	}
+	.poket_accordion_area.home2_accordion_area {
+		padding: 55px 15px 0px 15px;
+	}
+	.pricing_style_6 .witr_pricing_icon {
+		top: -35px;
+		left: 20px;
+	}
+	.pricing-part h4 {
+		font-size: 28px;
+	}
+	.contact_page_area .all_color_service {
+		padding: 30px 15px 40px 15px;
+	}
+	.wirt_counter_tiner {
+		text-align: left;
+	}
+	.portfolio_content h3 a {
+		font-size: 22px;
+	}
+	.witr_content_pslide_text h3 a {
+		font-size: 20px;
+	}
+	.recent-post-image img {
+		margin-bottom: 14px;
+	}
+     .w_slider_4 .witr_swiper_height {
+         margin-left:0px !important;
+    }
+     .d1.witr_swiper_height {
+         width: 100% !important;
+    }
+     .w_slider_3 .d1.witr_swiper_height {
+         width: 100% !important;
+         transform: translateX(0) !important;
+    }
+     .d2.witr_swiper_height {
+         width: 50% !important;
+    }
+     .witr_swiper_area .text-right .witr_slider_thumb {
+         left: -230px !important;
+    }
+     .witr_swiper_area .text-left .witr_slider_thumb {
+         right: -150px !important;
+    }
+	/* nivo slider */
+     .em-slider-title {
+         font-size: 26px;
+         margin-bottom: 10px;
+    }
+     .em-slider-sub-title {
+         font-size: 42px;
+         margin-bottom: 2px;
+    }
+     .em-slider-descript {
+         margin-bottom: 20px;
+         width: 66%;
+    }
+     .text-left .em_slider_s2_content {
+         margin-right: 10%;
+    }
+     .text-right .em_slider_s2_content {
+         margin-left: 10%;
+    }
+     .em-slider-sub-title {
+         line-height: 49px;
+    }
+     .em_sc_100 {
+         margin-top: 15px;
+    }
+     .em_slider_s2_image_inner img{
+         width:100%;
+    }
+	.recent-post-text h4 a {
+		font-size: 17px;
+	}
+	.about_writ_inner {
+		padding: 50px 25px 50px 0;
+		width: 100%;
+	}
+	.herbal_about_area .about_content_inner {
+		padding: 0;
+	}
+	.em_service_area2 .all_icon_color i {
+		top: 80px;
+		left: 215px;
+	}
+	.em_service_area.surgery_service_area.amb_service_area .all_icon_color i {
+		top: 95px;
+		left: 216px;
+	}
+	.poket_contact_area .apartment_area {
+		background-position: left center;
+	}
+	.section_title_content p {
+		padding-top: 32px;
+		padding-right: 0px;
+	}
+	.faq_area2 .accordion_left_img {
+		margin-left: 0;
+	}
+	/* tab area css */
+	.witr_adv_tab_menu {
+		padding: 38px 65px 0px 15px;
+	}
+	/* compair area css */
+	.witr-img-pos img {
+		padding-left: 0;
+	}
+	.surgery_compair_area .wirt_compair_innner {
+		padding-right: 0;
+	}
+	.surgery_compair_area .em-service-desc p {
+		padding-right: 0;
+	}
+    /*========= banner area css ========*/
+     .witr_banner_content h2 {
+         font-size: 50px;
+    }
+     .witr_banner_content p {
+         width: 85%;
+    }
+     .witr_banner_content.text-right {
+         margin-right: 20px;
+    }
+    /*======== banner_area 2 ==========*/
+     .banner_area {
+         position: relative;
+         height: 600px;
+    } 
+	/*======== Slick ==========*/
+	.witr_ds_content_inner {
+		width: 87%;
+	}
+	.witr_ds_content_inner h2 {
+		font-size: 65px;
+	}
+    /*========== height css ===========*/
+     .menu-height-space {
+         height: 0;
+    }
+     .em_creative_header:after {
+         -webkit-transform: rotate(-100deg);
+         transform: rotate(-100deg);
+    }
+     .poket_menu > ul > li > a {
+         margin: 38px 5px 38px;
+         font-size: 13px;
+    }
+     .poket_menu > ul > li > a {
+         margin: 38px 15px 38px;
+         font-size: 13px;
+    }
+     .witr_h_h8 .poket_menu > ul > li > a, .witr_h_h15 .poket_menu > ul > li > a, .witr_h_h16 .poket_menu > ul > li > a {
+         margin: 38px 11px 38px;
+    }
+     a.dtbtn {
+         margin-left: 10px;
+    }
+     .witr_h_h10 .poket_menu > ul > li > a, .witr_h_h11 .poket_menu > ul > li > a, .witr_h_h9 .poket_menu > ul > li > a, .witr_h_h17 .poket_menu > ul > li > a {
+		margin: 38px 4px 38px;
+		font-size: 17px;
+	}
+	.compair_inner_title .witr_section_title {
+		padding-bottom: 0px;
+	}
+	.poket_compair_area .witr_section_title_inner p {
+		margin-top: 10px;
+		padding-right: 0px;
+	}
+	.wirt_compair_innner .witr_section_title_inner h3 {
+		font-size: 32px;
+	}
+    /* new css */
+     .sub-item p {
+         padding: 0 6px;
+    }
+    .poket_testimonial_area .witr_section_title_inner.text-center p {
+         width:71%;
+    }
+     .title_in_area{
+         width: 100%;
+    }
+	.poket_accordion_area.meet_doctors_accordion,
+	.poket_accordion_area {
+		padding: 73px 0px 70px 0px;
+	}
+	.wirt_compair_innner {
+		padding-right: 35px;
+	}
+    /* text_widget css */
+     .witr_text_widget_inner h1, .witr_text_widget_inner h2{
+         font-size: 30px !important;
+    }
+    /* Screenshots css */
+     .dnSlide-main.done {
+         margin-left: 61px;
+    }
+     .Screenshots-fearm img {
+         width: 190% !important;
+         left: -96px;
+         top: -28px;
+         max-width: 190% !important;
+    }
+     .Screenshots .dnSlide-main .dnSlide-right-btn {
+         right: -83px;
+    }
+     .Screenshots .dnSlide-main .dnSlide-left-btn {
+         left: -43px;
+    }
+     .accordion-content {
+         padding: 23px 25px;
+    }
+    /* images_area */
+     .images_area.wittr_car_top_left .slick-dots {
+         left: 30px;
+    }
+     .singleSS {
+         padding: 61px 24px 60px;
+    }
+     .witr_nth_child:nth-child(2n) {
+         margin-top: 0;
+         margin-bottom: 30px;
+    }
+	/* faq area css */
+	.accordion_area {
+		margin-left: 0;
+	}
+    /* blog css */
+     .wblog-content h5 > a {
+         font-size: 19px;
+    }
+     .blog-content span {
+         font-size: 13px;
+    }
+     .blog-content > a {
+         line-height: 40px;
+         padding: 0 20px;
+    }
+     .widget .widget_media_image img{
+         width:100%;
+    }
+     .blog-left-side .blog-title > ul > li > a {
+         margin-right: 8px;
+    }
+	.witr_blog_con h2 a {
+		font-size: 20px;
+	}
+     .recent-post-text > h4 {
+         margin-top: 15px;
+         line-height: 1;
+    }
+     .footer-middle .recent-post-text > h4 {
+         margin-top: -7px;
+         line-height: 1;
+    }
+     .em-blog-content-area {
+         padding: 22px 15px 7px;
+    }
+     .witr_titles h3 {
+         font-size: 20px;
+    }
+     .witr_blog_con6 h2 {
+         font-size: 17px;
+    }
+     .witr_blog_con6 h5 a {
+         font-size: 17px;
+    }
+    /* team css */
+     .team-style-2 .em-content-title h2 {
+         font-size: 17px;
+         margin-top: -1px;
+    }
+     .team-style-2 .em-content-socials a {
+         font-size: 14px;
+    }
+	.front_view_box {
+		padding: 33px 30px 40px;
+	}
+	.working_hours_area .witr_section_title_inner.text-center p {
+		width: 70%;
+	}
+	.working_hours_area .all_list_color h3 a, .working_hours_area .all_list_color h3 {
+		font-size: 30px;
+	}
+	.procedure_process_area {
+		padding: 95px 0px 50px;
+	}
+	.ambulance_team_area .post_team11_area .team_o_icons {
+		right: 90px;
+	}
+    /* feature css */
+     .witr_feature2 h3 {
+         font-size: 20px;
+    }
+	.dental_feature_area {
+		margin-top: 0;
+		padding: 100px 0 80px;
+	}
+	.feature_inner_box {
+		padding: 45px 20px  26px 26px;
+	}
+    /* service css */
+	.em-service-desc p {
+		padding-right: 0px;
+		padding-bottom: 10px;
+		margin-bottom: 0px;
+	}
+     .witr_content_service h3 {
+         color: #fff;
+         font-size: 20px;
+    }
+     .witr_service3_box {
+         text-align: center;
+    }
+     .witr_service3_icon {
+         float: none;
+         margin-right: 0;
+         margin-bottom: 15px;
+    }
+	.em_service_area .all_icon_color i {
+		top: 85px;
+		left: 220px;
+	}
+	.dental_service_area .service-item {
+		padding: 60px 30px;
+	}
+	.plastic_surg_service_area .service-item{
+		padding: 30px 30px;
+	} 
+	.ambulance_service_area .em-service2 {
+		padding: 20px 25px 20px;
+		margin-left: -6px;
+		margin-right: -6px;
+	}
+	.ambulance_service_area .em-service-title h3 a {
+		font-size: 20px;
+	}
+	.ambulance_service_area .em-service2 .em-service-icon i {
+		height: 70px;
+		width: 70px;
+		line-height: 70px;
+	}
+	.ambulance_service_area .em-service-title h3 {
+		padding: 35px 0 0;
+	}
+	.em-service2.sleft .em-service-icon {
+		margin-right: 18px;
+	}
+	.ambulance_service_area {
+		margin-top: 0;
+		padding: 100px 0 80px;
+	}
+	.plastic_service_area .service-item {
+		margin-left: -6px;
+		margin-right: -6px;
+	}
+	.herbal_service_area {
+		margin-top: 0;
+		padding: 95px 0 8px;
+	}
+	.herbal_service_area3 .service-item {
+		padding: 0;
+	}
+	.medi_equip_servi_area3 {
+		padding: 95px 0 80px;
+	}
+	.about_area .service-item h3 {
+		font-size: 17px;
+	}	
+	.ps_about_service_inner {
+		margin-right: 15px;
+		margin-left: 31px;
+	}
+	.plastic_about_area .em-service2 {
+		padding: 8px 10px 5px 10px;
+	}
+	.plastic_about_area .em-service-icon {
+		margin-right: 5px !important;
+	}
+	.surgery_doct_about_area .single_image_area {
+		margin-left: 0;
+	}
+	.post_team_idteam .slick-prev {
+		left:800px;
+	}	
+	.witr_service2_style4 {
+		 padding: 40px 14px 40px;
+	}	
+    /* testomonial style 8 css */
+     .witr_testomonial_area {
+         width: 85%;
+    }
+     .witr_testi_main {
+         width: 75%;
+    }
+	.ambulance_tesimonial_area .witr_section_title_inner p {
+		width: 68%;
+	}
+	.testimonial-meta-inner {
+		margin-right: 10px;
+	}
+	.about_style2_about_area .testimonial-meta-inner {
+		margin-right: 0;
+	}
+	.herbal_testi_area .witr_section_title_inner.text-center p {
+		width: 67%;
+	}
+	.about_style2_about_area .testimonial-image {
+		margin-left: 0px;
+	}
+	.herbal_testi_area .witr_test_part {
+		margin-left: 180px;
+		margin-right: -135px;
+	}
+    /* curosel-style css */
+     .curosel-style .owl-nav div {
+         left: -15px;
+    }
+     .curosel-style .owl-nav .owl-next{
+         right: -15px;
+    }
+	.ab3_testi_area .witr_section_title_inner.text-center p {
+		width: 68% !important;
+	}
+    /* countdown css */
+	.medical_counterdown_area .witr_section_title_inner p {
+		width: 67%;
+	}
+    /* timeline css */
+     .mrr90 {
+         margin-right: 54px;
+    }
+     .mrl110 {
+         margin-left: 50px;
+    }
+    /* static tab css*/
+     .event_pcontent p, .poket_event_icon span {
+         font-size: 13px;
+    }
+	.witrfm_area .widget img {
+		margin-bottom: 20px;
+	}
+     .footer-bottom::before {
+         width: 94%;
+    }
+     .text-right .witr_slider_thumb {
+         left: 0px;
+    }
+     .text-left .witr_slider_thumb {
+         right: -150px;
+    }
+     .em_slider_s2_image img {
+         width: 70%;
+    }
+     .witr_back_process,.witr_process_box {
+         display: none;
+    }
+    /* add new css*/
+    /* causes */
+     .witr_couses_btnb a {
+         padding: 13px 18px;
+         font-size: 15px;
+    }
+     .witr_circal_r {
+         margin-left: 18px;
+    }
+     .witr_circal_r h6 {
+         font-size: 15px;
+    }
+    /* event */
+     .witr_event_btn a {
+         font-size: 16px;
+    }
+     #scrollUp {
+         bottom: 77px;
+         right: 30px;
+    }
+	.poket_advantages_area .all_color_service {
+		padding: 30px 20px 16px 0px;
+	}	
+	.contact2 .apartment_area {
+		padding: 35px 20px 0px;
+		margin: 0px 0px 0px 0px;
+	}	
+	.witr_lf_area {
+		margin-top: 0px;
+	}	
+	.poket_skill_area .witr_section_title_inner h3 {
+		font-size: 32px;
+	}	
+	.recent-portfolio {
+		width: 28.33%;
+	}	
+	.about_content_inner {
+		padding: 0px 0px 0 0px;
+		margin-left: -10px;
+	}
+	
+	.banner-content h2, .banner-content h3 {
+		font-size: 58px;
+	}	
+	.home5  .witr_section_right {
+		padding: 0px 8px 0px 0px;
+	}	
+	.list_item2 {
+		margin-left:0;
+	}	
+		
+	.list_item ul li {
+		font-size: 12px;
+		margin-bottom: 10px;
+	}	
+	.list_item3 {
+		margin-left: -16px;
+	}
+
+	.home5  .witr_button_area {
+		margin-top: 40px;
+	}
+	/* call to togole area css */
+	.poket_call_to_action .witr_section_title_inner h1, .poket_call_to_action .witr_section_title_inner h3 {
+		font-size: 28px;
+	}
+	.togole_button_inner {
+		margin-left: -30px;
+		margin-right: -30px;
+	}
+	.dental_togole_area .witr_section_title {
+		padding-right: 75px;
+	}
+	.ambulance_call_action_area {
+		padding: 80px 0 80px;
+	}
+	.herbal_call_action .poket_content p {
+		width: 82%;
+	}
+	.call_to_action_area .witr_section_title_inner.text-center p, .call_to_action_area .witr_section_title_inner.text-left p, .call_to_action_area .witr_section_title_inner.text-right p {
+		width: 90%;
+	}
+	/* choose area css */
+	.dental_video_left_inner {
+		padding-left: 0;
+	}
+	.dental_choose_area .about_content_inner {
+		padding: 0px 20px 0 15px;
+	}
+	.dental_choose_area .video-part {
+		padding: 130px 0px 130px 0px;
+	}
+	.choose_inner {
+		margin: 0;
+		margin-left: -31px;
+		margin-right: -31px;
+	}
+	.ambulance_choose_area .witr_s_flex {
+		display: inherit;
+	}
+	.herbal_choose_area .witr_text_widget {
+		padding: 0px 30px 0px 0px;
+	}
+	.ambulance_choose_area .em-service-icon img {
+		margin: -10px 60px 15px 0;
+	}
+	.ambulance_choose_area .witr_section_title_inner p {
+		width: 63% !important;
+	}
+	.ambulance_choose_area .choose_inner {
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+	.ambulance_choose_area .choose_middlei_mg_inner {
+		margin-left: 0;
+	}
+	/* about area css */
+	.surgery_doct_about_area .testimonial-image {
+		margin-left: 0;
+	}
+
+
+	
+	
+	
+}
+
+
+/* ------------------------------------------------- Tablet Screen : 768 ---------------------------------------------------*/
+ @media (min-width: 768px) and (max-width: 991px) {
+	.poket-header-top .container-fluid {
+		padding-right: 15px;
+		padding-left: 31px;
+	}
+	.witr_sw_text_area {
+		width: 95%;
+	}
+	.surgery_poket_slider2_area {
+		padding: 60px 0px 60px;
+	}
+	.dental_surgery_swiper .witr_swiper_height {
+		height: 600px;
+	}
+	.dental_surgery_swiper .witr_swiper_content h2, .dental_surgery_swiper .witr_swiper_content h3 {
+		font-size: 40px;
+	}
+	.witr_ds_content_area .witr_ds_slider_content h2, .witr_ds_content_area .witr_ds_slider_content h2{
+		font-size: 58px;
+	}
+	.witr_slick_list {
+		width: 70%;
+		text-align: center;
+		margin: 0 auto;
+		margin-top: 40px;
+	}
+	.witr_ds_content_area .slider_btn {
+		margin-top: 25px;
+	}
+	.plastic_surgery_swiper .witr_swiper_height {
+		height: 500px;
+	}
+	.plastic_surgery_swiper .witr_swiper_content h2, .plastic_surgery_swiper .witr_swiper_content h3 {
+		font-size: 45px;
+	}
+	.herbal_swiper_area .witr_swiper_height {
+		height: 500px;
+		background-position: center left;
+	}
+	.medi_equp_swi_area .witr_swiper_height {
+		height: 550px;
+		background-position: center left;
+	}
+	.medi_equp_swi_area .witr_swiper_content h2, .medi_equp_swi_area .witr_swiper_content h3 {
+		font-size: 40px;
+	}
+	.slider_btn {
+		margin-top: 30px;
+	}
+	 .poket-header-top {
+		padding-right:0px;
+		padding-left:0px;
+	}
+     .witr_swiper_height {
+         height: 600px;
+    }
+	.witr_swiper_area .text-left .slider_vd_icon {
+		top: -110PX;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.home2_swiper_area .witr_swiper_height {
+		background-position: center left;
+		background-size: cover;
+	}
+     .witr_swiper_height {
+         width: 100% !important;
+    }
+     .w_slider_4 .witr_swiper_height {
+         margin-left:0px !important;
+    }
+     .t1.witr_swiper_height {
+         width: 100% !important;
+    }
+     .w_slider_3 .t1.witr_swiper_height {
+         transform: translateX(0) !important;
+    }
+     .t2.witr_swiper_height {
+         width: 50% !important;
+         left: -20px;
+    }
+	.witr_section_title_inner h1, .witr_section_title_inner h2, .witr_section_title_inner h3 {
+		font-size: 29px;
+	}	
+	.witr_section_title_inner h2 {
+		font-size: 18px;
+	}
+	.accordion_area.accordion_area_02 {
+		padding-top: 30px;
+	}
+	.poket_service_area {
+		margin-top: 100px;
+	}
+	.why_choose_area .witr_s_flex {
+		display: inherit;
+	}
+	.em-service2 .em-service-inner {
+		padding-right: 15px;
+	}
+	.counter_up_area.home2_counter {
+		margin-top: 100px;
+		margin-bottom: 0px;
+	}
+	.poket_team_area.home2_team {
+		padding: 130px 0px 130px;
+	}
+	.home2_togole_area .poket_content h2, .home2_togole_area .poket_content h3 {
+		font-size: 17px;
+	}
+	.witr_feature_13 .sub-item::after, .witr_feature_13 .sub-item:before {
+		top: 54%;
+	}
+	.em_service_inner {
+		justify-content: space-between;
+	}
+	.witr_ac_style, .witr_ac_style::before {
+		font-size: 19px;
+	}
+	.accordion_area {
+		margin-right: 0px;
+		margin-left: 0;
+	}
+	.poket_compair_area .witr_section_title_inner p {
+		padding-right: 0px;
+		width: 100% !important;
+	}
+	.surgery_compair_area .wirt_compair_innner {
+		padding-right: 0;
+	}
+	.surgery_compair_area .em-service2 .em-service-inner {
+		padding-right: 0;
+	}
+	.surgery_compair_area .em-service-desc p {
+		padding-right: 0;
+	}
+	.compair_inner_title .witr_section_title {
+		padding-bottom: 0px;
+	}
+	.slider2_content_area {
+		margin: 0px 50px 0px 50px;
+		padding: 90px 0px 155px 50px;
+	}
+	.slider2_content_area .witr_section_title_inner h3 {
+		font-size: 60px;
+	}
+	.slider2_content_area  .witr_section_title_inner h1 {
+		font-size: 60px;
+	}
+	.slider2_content_area .witr_section_title_inner p {
+		font-size: 22px;
+	}
+	.poket_accordion_area.home2_accordion_area {
+		padding: 55px 30px 50px 30px;
+	}
+	.witr_counter_6 .wirt_new_iner {
+		float:inherit;
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.em-service-desc p {
+		padding-bottom: 0px;
+	}
+	.mc4wp-form-fields .witr_mail_From button {
+		position: absolute;
+		left: 15px;
+		top: 192px;
+	}
+     .w_slider_3 .t2.witr_swiper_height {
+         transform: translateX(-50%) !important;
+         left: 91%;
+    }
+	/* service area css */
+	.em_service_inner {
+		margin-bottom: 20px;
+	}
+	.em_service_area2 .all_icon_color i {
+		top: 95px;
+		left: 248px;
+	}
+	.about_writ_inner {
+		width: 100%;
+		padding: 50px 25px 50px 0;
+	}
+	.em-service-desc p {
+		padding-right: 0px;
+	}
+	.ambulance_service_area .em-service-title h3 {
+		padding: 0px 0 0;
+	}
+	/* about area css */
+	.about_style2_about_area .em-service-desc p {
+		padding-right: 0;
+	}
+	.about_style2_about_area .testimonial-meta-inner {
+		display: inherit;
+		margin-top:0;
+	}
+	.about_style2_about_area .testimonial-image {
+		margin-left: 0px;
+		float: left;
+	}
+	.about_style2_about_area .single_image_area {
+		margin-bottom: 20px;
+		margin-left: 0;
+	}
+	.about_style2_about_area .witr_section_title_inner p {
+		width: 100% !important;
+	}
+	.about_style2_about_area .witr_section_title_inner h3 {
+		font-size: 27px;
+	}
+	.about_style2_img_content .witr_section_title {
+		padding-left: 85px;
+	}
+	.surgery_doct_about_area .single_image_area {
+		margin-left: 0;
+	}
+	.service-item.all_color_service.text-center.margin_top {
+		position: absolute;
+		right: -350px;
+		bottom:0;
+	}
+	/* call action area css */
+	.call_to_action_right_btn_inner {
+		text-align: right;
+	}
+	.poket_call_to_action .witr_bbtn {
+		display: block;
+		margin-left: 114px;
+	}
+	.about_style2_process_area .single_image.single_line_option img {
+		margin: 50px 0px -20px;
+	}
+	.about_btn_img_flex {
+		display: inherit;
+	}
+	.testimonial-meta-inner {
+		margin-top: 20px;
+	}
+	.poket_contact_area .apartment_area {
+		padding: 70px 50px 70px 290px;
+		background-position: left center;
+		margin-left: -30px;
+		margin-right: -30px;
+	}
+     .witr_swiper_area .text-right .slider_vd_icon {
+         left: 48% !important;
+         top: 17% !important;
+    }
+     .witr_swiper_area .text-center .slider_vd_icon {
+         top: 17%;
+    }
+     .witr_sw_text_area.text-right, .witr_sw_text_area.text-left {
+         text-align: center !important;
+    }
+     .text-right .witr_swiper_content h1, .text-right .witr_swiper_content h2, .text-right .witr_swiper_content h3, .text-right .witr_swiper_content p, .text-left .witr_swiper_content h1, .text-left .witr_swiper_content h2, .text-left .witr_swiper_content h3, .text-left .witr_swiper_content p, .text-center .witr_swiper_content h1, .text-center .witr_swiper_content h2, .text-center .witr_swiper_content h3, .text-center .witr_swiper_content p {
+         width: 100% !important;
+         margin-left: auto;
+         margin-right: auto;
+         text-align:center !important;
+    }
+     .witr_swiper_content h2, .witr_swiper_content h3 {
+         font-size: 40px;
+    }
+     .text-right .witr_btn_sinner, .text-left .witr_btn_sinner {
+         text-align: center !important;
+    }
+	/* slick slider */
+     .em-slider-title {
+         font-size: 16px;
+         margin-bottom: 10px;
+    }
+     .em-slider-sub-title {
+         font-size: 30px;
+         margin-bottom: 0;
+    }
+     .em-slider-descript {
+         display: none;
+    }
+     .em-button-button-area a {
+         margin-top: 20px;
+    }
+     .em-slider-sub-title {
+         line-height: 46px;
+    }
+    /* banner area css */
+     .witr_banner_area {
+         height: 700px;
+    }
+     .witr_banner_content h1 {
+         font-size: 58px;
+    }
+     .witr_banner_content h2 {
+         font-size: 42px;
+    }
+     .witr_banner_content p {
+         font-size: 16px;
+         width: 77%;
+    }
+     .witr_butn {
+         line-height: 49px;
+    }
+     .witr_banner_content.text-right {
+         margin-right: 20px;
+    }
+    /*=========== banner area 2 css ===============*/
+     .banner_area {
+         height: 880px;
+    }
+     .banner-content h1, .banner-content h2, .banner-content h3 {
+         font-size: 45px;
+    }
+     .witr_deshboard {
+         margin-top: 30px;
+    }
+    /*=========== Slick area css ===============*/
+     .witr_ds_content {
+         height: 670px;
+    }
+	.witr_ds_content_inner {
+		width: 100%;
+	}
+	.witr_ds_content_inner h2 {
+		font-size: 70px;
+	}	
+     .text-right .witr_ds_content_inner h1, .text-right .witr_ds_content_inner h2, .text-right .witr_ds_content_inner h3, .text-right .witr_ds_content_inner p, .text-left .witr_ds_content_inner h1, .text-left .witr_ds_content_inner h2, .text-left .witr_ds_content_inner h3, .text-left .witr_ds_content_inner p, .text-center .witr_ds_content_inner h1, .text-center .witr_ds_content_inner h2, .text-center .witr_ds_content_inner h3, .text-center .witr_ds_content_inner p {
+         width: 100% !important;
+         margin-left: auto;
+         margin-right: auto;
+         text-align:center !important;
+    }
+     .text-right .witr_ds_content_inner h1, .text-right .witr_ds_content_inner h2, .text-right .witr_ds_content_inner h3, .text-left .witr_ds_content_inner h1, .text-left .witr_ds_content_inner h2, .text-left .witr_ds_content_inner h3, .text-center .witr_ds_content_inner h1, .text-center .witr_ds_content_inner h2, .text-center .witr_ds_content_inner h3{
+    }
+     .witr_btn {
+    }
+     .slider_btn {
+         text-align: center;
+    }
+     .witr_slider_thumb.em_slider_s2_image {
+         display: none;
+    }
+    /* Em-Creative Header */
+     .creative_header_curve {
+         display: none;
+    }
+     .creative_header_logo {
+         padding-right: 0;
+         text-align: center;
+    }
+     .em_creative_header {
+         background: transparent none repeat scroll 0 0;
+         z-index: 999;
+    }
+     .single_header_address {
+         padding: 27px 0 20px;
+    }
+     .creative_header_button {
+         background: #f9f9f9 none repeat scroll 0 0;
+         padding: 30px 0;
+         position: relative;
+         text-align: center;
+    }
+     .creative_header_button:before, .em_creative_header:before, .em_creative_header:after {
+         display: none;
+    }
+     .single_header_address.ctrp {
+         padding-bottom: 50px;
+    }
+     .em_creative_header {
+         padding-bottom: 0;
+    }
+     .em-nivo-slider-wrapper .nivo-directionNav {
+         display: none;
+    }
+    .witr_section_title_inner.text-center p, .witr_section_title_inner.text-left p, .witr_section_title_inner.text-right p {
+		width: 90%;
+	}
+	.all_color_service, .service_top_image::after {
+		margin-bottom: 25px;
+	}
+	.video-part {
+		padding: 0px 0px 0px 0px;
+	}
+	.counter2_inner_area {
+		margin-left: -40px;
+		margin-right: -40px;
+	}
+	.witr_blog_con span {
+		font-size: 15px;
+	}
+     .title_in_area{
+         width: 100%;
+    }
+	.mc4wp-form-fields button {	
+		margin-left: 0px;
+		float: right;
+		margin-right:10px;
+	}
+	.mc4wp-form-fields button {
+		padding: 20px 32px;
+	}
+	/* choose area css */
+	.why_choose_area .witr_section_title {
+		width: 50%;
+	}
+	.herbal_choose_area .witr_section_title {
+		width: 100%;
+	}
+	.why_choose_area .witr_section_title_inner h3 {
+		font-size: 27px;
+	}
+	.why_choose_area .witr_text_widget_inner h1, .why_choose_area .witr_text_widget_inner h2 {
+		font-size: 28px;
+	}
+	.dental_choose_area .about_content_inner {
+		padding: 0px 0px 0 10px;
+	}
+	.amb_choose_area .about_content_inner {
+		padding: 0px 0px 0 0px;
+	}
+	.ambulance_choose_area .witr_section_title_inner p {
+		width: 85% !important;
+	}
+	/* tab area css */
+	.witr_adv_tab_menu {
+		padding: 15px 20px 0px 30px;
+	}
+	.witr_adv_tab_content {
+		margin: 55px 20px 30px 0;
+	}
+	/* video area css */
+	.togole_button_inner {
+		margin-top: 20px;
+	}
+	.dental_video_left_inner {
+		padding-left: 0;
+	}
+	/* compair area css */
+	.witr-img-pos img {
+		padding-left: 0;
+	}
+	.wirt_compair_innner {
+		padding-left: 10px;
+		padding-right: 0px;
+	}
+	.wirt_compair_innner .witr_section_title_inner h3 {
+		font-size: 24px;
+	}
+    /* about css */
+     .witr_text_widget_inner h1, .witr_text_widget_inner h2 {
+         font-size: 23px;
+    }
+     .witr_about_content {
+         text-align: center;
+    }
+     .witr_about_image {
+    }
+	.witr_counter_single {
+		display: inherit;
+	}
+	.ambulance_about_area .witr_counter_number_inn {
+		margin-top: 5px;
+	}
+	.plastic_about_area .em-service-icon {
+		margin: 0 !important;
+	}
+	.plastic_about_area .em-service-inner {
+		margin-top: 0;
+	}
+	.ps_about_service_inner {
+		margin-right: -1px;
+		margin-left: 170px;
+		margin-top: -425px;
+	}
+	.plastic_about_area .em-service2 {
+		padding: 8px 0px 5px 10px;
+	}
+	.plastic_about_area .about_content_inner {
+		padding: 30px 0px 0 0px;
+	}
+	.herbal_about_area .about_content_inner {
+		padding: 0px 0px 0 0px;
+	}
+	.herbal_about_area .witr_section_title_inner h3 {
+		font-size: 29px;
+	}
+	.herbal_about_area .witr_button_area {
+		margin-top: 30px;
+	}
+    /* accourdion css */
+     .poket-accourdion-title h2 i {
+         display: none;
+    }
+     .accordion-content {
+         padding: 23px 0px;
+    }
+	.faq_area2 .accordion_left_img {
+		margin-left: 0;
+	}
+	.faq_area2 .witr_ac_style::before {
+		font-size: 15px;
+	}
+    /* service css */
+     .witr_custom2_icon {
+         float: none;
+         margin-right: 0;
+         margin-bottom: 15px;
+    }
+     .witr_service3_box {
+         text-align: center;
+    }
+     .witr_service3_icon {
+         float: none;
+         margin-right: 0;
+         margin-bottom: 15px;
+    }
+	.ambulance_service_area {
+		margin-top: 0;
+		padding: 100px 0 80px;
+	}
+	.amb_service_area {
+		margin: 0;
+	}
+	.em_service_area {
+		margin-top: 100px;
+	}
+	.em_service_area .all_color_service {
+		padding:0;
+	}
+	.em_service_area .all_icon_color i {
+		top: 110px;
+		left: 260px;
+	}
+	.witr_s_flex {
+		display: inherit;
+	}
+	.em_service_area .single_image img {
+		width: 100%!important;
+		max-width: 100%!important;
+		margin-left: 70px;
+	}
+	.herbal_service_area {
+		margin-top: 0;
+		padding: 95px 0 8px;
+	}
+	.medi_equip_servi_area .em-service-title h3 {
+		padding: 0px 0 0;
+	}
+	.medi_equip_servi_area3 {
+		padding: 95px 0 80px;
+	}
+	.hos_board_ser_area {
+		margin-top: 0;
+	}
+	.procedure_service_area {
+		margin-top: 0;
+	}
+	.procedure_process_area {
+		padding: 95px 0px 50px;
+	}
+	.em_service_area.surgery_service_area.amb_service_area .all_icon_color i {
+		top: 120px;
+		left: 256px;
+	}
+	
+	/* feature area css */
+	.em_feature_area {
+		margin-top: 100px;
+	}
+	.dental_feature_area {
+		margin-top: 0;
+		padding: 100px 0 80px;
+	}
+	.em_feature_area .em_service_inner {
+		justify-content: space-between;
+	}
+    /* testomonial css */
+     .testomonial.testomonial-5 .test-part img.testimg {
+         top: 86%;
+    }
+     .witr_content_test7 {
+         padding: 0;
+    }
+    /* testomonial style 8 css */
+     .witr_testomonial_area {
+         width: 90%;
+    }
+     .witr_testi_main {
+         width: 90%;
+    }
+	.ambulance_tesimonial_area .em_single_testimonial {
+		padding: 65px 40px 66px;
+	}
+	.testimonial_area2 {
+		padding: 95px 0px;
+	}
+	.medi_equip_testi_area .witr_testi_itemt p {
+		font-size: 19px;
+	}
+	.surgery_doct_about_area .testimonial-meta-inner {
+		display: inherit;
+	}
+	.surgery_doct_about_area .testimonial-image {
+		margin-left: 0px;
+	}
+	.surgery_doct_about_area .about_style2_img_content .witr_section_title {
+		padding-left: 0px;
+	}
+	.herbal_testi_area .witr_test_part {
+		margin-left: 195px;
+		margin-right: -150px;
+	}
+	.herbal_testi_area .witr_testomonial_area {
+		width: 95%;
+	}
+	.medi_equip_testi_area .witr_section_title_inner p {
+		width: 90% !important;
+	}
+    /* blog css */
+	.single_blog_thumb img {
+		height: 250px;
+	}
+	.comments-area {
+		margin-left: -20px;
+	}
+	.single_blog.single_blog_grid.singles {
+		margin-left: -20px;
+	}
+	.medical-single-blog-details-inner {
+		padding: 38px 30px 45px;
+	}
+	.medical-single-icon-inner a {
+		margin-bottom: 5px;
+	}
+	.blog-left-side.widget {
+		margin-right: -20px;
+	}
+	.dental_blog_area .witr_blog_con h2 a {
+		font-size: 22px;
+	}
+     .blog-img img {
+         width: 100%;
+    }
+     .sub-border-2 .sub-item span {
+         top: 31px;
+         left: 75%;
+    }
+     .sub-item p {
+         padding: 0;
+    }
+     .digital-item ul li a {
+         padding: 7px 57px;
+    }
+     .mobil-item {
+         margin-top: 30px;
+    }
+     .download-demo {
+         text-align: center;
+    }
+    /* Screenshots css */
+     .dnSlide-main.done {
+         margin-left: -54px;
+    }
+     .Screenshots-fearm img {
+         width: 240% !important;
+         left: -149px;
+         top: -24px;
+         max-width: 240% !important;
+    }
+     .Screenshots .dnSlide-main .dnSlide-right-btn {
+         right: 0px;
+    }
+     .Screenshots .dnSlide-main .dnSlide-left-btn {
+         left: 47px;
+    }
+     .poket-accourdion-title h2 {
+         padding-left: 20px;
+    }
+     .w_apps_button a {
+         padding: 3px 20px 11px 20px !important;
+    }
+     span.ipoket {
+         font-size: 20px;
+         margin-right: 10px;
+    }
+     span.spaninner {
+         font-size: 20px;
+    }
+    /* about css */
+     .digital-img img, .witr_app_area .digital-content h3 {
+         margin-top:0px !important;
+    }
+	.about_content_inner {
+		padding: 44px 0px 0 0px;
+	}
+	.about_content_inner {
+		padding: 0px 0px 0 0px;
+	}
+	.dental_about_area .witr_section_title_inner h3 {
+		font-size: 29px;
+	}
+	.about_content_inner .witr_section_title_inner p {
+		width: 100% !important;
+	}
+	.about_content_inner .witr_list_text {
+		padding-left: 0;
+	}
+	.dental_about_area .witr_button_area {
+		margin-top: 30px;
+	}
+	.dental_about_area {
+		padding: 0px 0 100px;
+	}
+	.dental_about_area.ambulance_about_area {
+		padding: 0;
+	}
+    /* counter css */
+     .witr_counter_single {
+         text-align: center;
+    }
+     .witr_counter_icon i {
+         margin-bottom: 15px;
+         margin-right: 0;
+         float: none;
+    }
+     .witr_custom_icon {
+         margin-bottom: 10px;
+    }
+     .witr_custom_icon i{
+         margin-right: 0;
+         float: none;
+    }
+     .footer-item form label {
+         margin-left: 30px;
+    }
+     .deshboard img {
+         width: 100%;
+    }
+    .video-part .video-overlay {
+		padding: 172px 0;
+	}
+	.why_choose_area .witr_text_widget {
+		padding: 0px 0px 0px 10px;
+	}
+	.poket_accordion_area.meet_doctors_accordion,
+	.poket_accordion_area {
+		padding: 73px 0px 50px 0px;
+	}
+	.why_choose_area .section_title_content p {
+		padding-right: 0px;
+		padding-bottom: 45px;
+	}
+     .video-item h3 {
+         font-size: 30px;
+    }
+	.plastic_choose_area .witr_section_title {
+		width: 50%;
+	}
+	.plastic_choose_area .section_title_content {
+		width: 50%;
+		float: right;
+	}
+	.herbal_choose_area .witr_text_widget {
+		padding: 0;
+	}
+	.surgery_doct_choose  .witr_section_title {
+		width: 100%;
+	}
+	.witr_counter_6.witr_counter_single {
+		padding: 28px 25px 2px;
+	}
+	.working_hours_area .all_list_color h3 a, .working_hours_area .all_list_color h3 {
+		font-size: 22px;
+	}
+	.medical_counterdown_area2 span.cdowns {
+		height: 120px;
+	}
+    /* blog css */
+     .blog-content span {
+         font-size: 14px;
+    }
+     .blog-left-side .widget h2 {
+         font-size: 19px;
+    }
+     .blog-page-title h2 {
+         font-size: 18px;
+    }
+     .widget .widget_media_image img{
+         width:100%;
+    }
+     .blog-left-side .blog-title > ul > li > a {
+         height: 30px;
+         width: 30px;
+         line-height: 29px;
+         font-size: 15px;
+         margin-right: 2px;
+    }
+     .recent-post-text > h4 {
+         line-height: 23px;
+    }
+	 .recent-post-text h4 a, .recent-post-text .rcomment {
+		font-size: 16px;
+	}
+     .breadcumb-area {
+         padding-top: 93px !important;
+    }
+     .em-blog-content-area {
+         padding: 15px 15px 10px;
+    }
+    /* call-to-action css */
+     .all_cal_color {
+         text-align: center;
+    }
+     .witr_9 .poket_video_inner{
+         margin-bottom: 73px;
+    }
+     .witr_9 .poket_video_inner{
+         top: 40px;
+    }
+     .witr_col_image {
+         margin-top: 50px;
+    }
+     .witr_11 {
+         margin-top: 100px;
+    }
+     .witr_5 .poket_content p{
+         width: 100%;
+    }
+     .witr_b9{
+         margin-top: 95px;
+    }
+	.dental_togole_area .witr_btn_sinner {
+		text-align: right;
+	}
+	.dental_togole_area .witr_btn {
+		margin-bottom: 35px;
+	}
+	.ambulance_call_action_area {
+		padding: 80px 0 50px;
+	}
+	.ambulance_call_action_area .poket_content p {
+		width: 100%;
+	}
+	.herbal_call_action .poket_content {
+		margin-bottom: 0;
+		text-align: center;
+	}
+	.herbal_call_action .poket_content p {
+		width: 100%;
+	}
+	.herbal_call_action .poket_button {
+		text-align: center;
+	}
+	.poket_call_toggle_area  .departmentList {
+		padding: 30px 10px 30px 10px;
+	}
+    /* single portfolio2 */
+     .portfolio-details-box {
+         margin-left: 0;
+    }
+     .pimgs img {
+         width: 100%;
+    }
+    /* contact css */
+     .witr_field2 .witr_form_field2, .witr_field2 .witr_form_field2 {
+         float: none;
+         width: 100%;
+    }
+     .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd), .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd) {
+         margin-right: 0;
+    }
+    /* countdown css */
+     span.cdowns {
+         margin-bottom: 20px;
+    }
+     span.cdowns:before {
+         display: none;
+    }
+     span.cdowns:after {
+         display: none;
+    }
+    /* curosel-style css */
+     .curosel-style .owl-nav div {
+         left: -15px;
+    }
+     .curosel-style .owl-nav .owl-next{
+         right: -15px;
+    }
+    /* timeline css */
+     .mrl65,.mrr15{
+         display:none;
+    }
+     .mrr50 {
+         margin-right: -235px;
+    }
+     .mrl110 {
+         margin-left: -63px;
+    }
+     .mrr90 {
+         margin-right: -40px;
+    }
+    /* static tab css*/
+     .poket_event_thumb {
+         float: none;
+         margin-bottom: 15px;
+    }
+     .poket_single_event {
+         margin: 0;
+    }
+     .poket_event_icon span {
+         margin-right: 5px;
+    }
+     .testomonial-slide .slick-prev, .blog_wrap .slick-prev {
+         left: 15px;
+    }
+     .testomonial-slide .slick-next, .blog_wrap .slick-next {
+         right: 15px;
+    }
+     .recent-post-text {
+         margin-top: 10px;
+    }
+    /*====== new css ======= */
+    /* ab_videoArea */
+     .singleAbSlide {
+         right: 0;
+         left: 0;
+         bottom: -218px;
+    }
+     .em_single_testimonial {
+         padding: 37px 20px 26px;
+    }
+	.dental_tesimonial_area .em_single_testimonial {
+		padding: 37px 18px 26px;
+	}
+     .em_testi_logo {
+         right: 15px;
+         top: 35px;
+    }
+     .witr_nth_child:nth-child(2n) {
+         margin-top: 0;
+         margin-bottom:30px;
+    }
+     .witr_single_call .text-right {
+         text-align: center !important;
+    }
+     .witr_center{
+         text-align: center;
+    }
+     .em_slider_social {
+         top: 41%;
+         z-index: 999999;
+         display:none;
+    }
+     .poket_content {
+         margin-bottom: 30px;
+    }
+     .em-service2.sleft .em-service-icon {
+         float: none;
+         margin-bottom: 10px;
+    }
+    /* new css add */
+     .witr_event_style_5 .witr_event_d {
+         padding-top: 30px;
+    }
+     .witr_event_style_5 .witr_event_btn {
+         margin-top: 8px;
+    }
+     .witr_appoimentle{
+         position: initial !important;
+    }
+     #scrollUp {
+         bottom: 75px;
+         right: 30px;
+    }
+	.footer-bottom:before {
+		width: 90%;
+	}	
+	.poket_features_area {
+		margin-top: 100px;
+	}	
+	.about_thumb {
+		padding: 0;
+	}
+	.about_thumb img {
+		width: 100%;
+	}	
+	.witr_section_right {
+		padding: 40px 20px 0px 0px;
+	}	
+	.poket_advantages_area .all_color_service {
+	   padding: 30px 11px 16px 0px;
+	}
+	.poket_advantages_area .em-service-title h3 {
+
+		font-size: 19px;
+	}
+	.contact2 .apartment_area {
+		margin: 0px 50px 0px 50px;
+	}
+	.witr_lf_area {
+		margin-top: 0px;
+		margin-bottom: 40px;
+	}
+	.skill_thumb img {
+		width: 100%;
+	}
+	.footer-menu ul li a {
+		padding: 0 6px;
+		font-size: 14px;
+	}
+	.vision_thumb_area img {
+		width: 100%;
+		margin-top: 40px;
+	}
+	.post_team_idteam .slick-prev {
+		left:564px;
+	}
+	.poket_service2_area .witr_custom2_icon {
+		float: left;
+		margin-right: 25px;
+	}
+	.single_page .witr_section_title_inner h3 {
+		font-size: 27px;
+	}	
+	.testomonial .test-part.witr_testi_s_11 {
+		padding: 30px 17px 20px;
+	}	
+	.contact_em_top {
+		margin-top: 0px;
+		margin-bottom: 30px;
+	}	
+	.skill_title_bg {
+		padding: 93px 30px 30px 30px;
+	}
+	.skill_title_bg.title2 {
+		padding: 50px 30px 100px 30px;
+	}
+	.working_team_inner {
+		margin-right: 0;
+	}
+	/* process area css */
+	.surgery_doct_process_area {
+		padding: 220px 0px 60px;
+	}
+	/* foooter area css */
+	.recent-post-image img {
+		margin-top: 0;
+	}
+
+
+}
+/* ------------------------------------------------- Small Mobile : 320 ---------------------------------------------------*/
+ @media (max-width: 767px) {
+	.surgery_poket_slider2_area {
+		padding: 40px 0px 40px;
+	}	 
+     .witr_swiper_height {
+         height:500px;
+         width: 100%;
+    }
+	.witr_swiper_area.home2_swiper_area .witr_swiper_height {
+		background-position: center left;
+		background-size: cover;
+	}
+	.dental_surgery_swiper .witr_swiper_height {
+		height: 550px;
+	}
+	.dental_surgery_swiper .witr_swiper_content h2, .dental_surgery_swiper .witr_swiper_content h3 {
+		font-size: 30px !important;
+	}
+	.single_image img {
+		width: 100%!important;
+		max-width: 100%!important;
+		margin-bottom: 20px;
+	}
+	.dental_service_area .service-btn a, .dental_service_area .witr_service_btn_3d a{}
+	.service-btn a, .witr_service_btn_3d a {
+		margin: 15px 0px 0px 0px;
+	}
+	.witr_slick_list {
+		margin-top: 40px;
+		width: 100%;
+	}
+	.plastic_surgery_swiper .witr_swiper_height {
+		height: 500px;
+	}
+	.plastic_surgery_swiper .witr_btn {
+		padding: 10px 26px;
+	}
+	.witr_ds_slider_content h2, .witr_ds_slider_content h3{
+		font-size: 30px !important;
+	}
+	.witr_ds_slider_content .witr_btn {
+		padding: 10px 26px;
+		margin-right: 0;
+	}
+	.witr_ds_content_area .slider_btn {
+		margin-top: 20px;
+	}
+	.herbal_swiper_area .witr_swiper_height {
+		height: 550px;
+		background-position: center left;
+	}
+	.herbal_swiper_area .witr_swiper_content h2, .herbal_swiper_area .witr_swiper_content h3 {
+		font-size: 30px !important;
+	}
+	.herbal_swiper_area .witr_btn {
+		padding: 10px 26px;
+	}
+	.em_service_area .em-service2.sleft .em-service-icon {
+		margin-right: 10px;
+	}
+	.poket_service_area .service_icon_box {
+		padding: 20px 19px 20px;
+	}	
+	.why_choose_area .witr_section_title {
+		padding-bottom: 30px;
+	}
+	
+	.portfolio_menu ul {
+		display: inherit;
+		text-align: center;
+	}
+	.poket_tab li {
+        margin-bottom: 20px;
+    }
+    .witr_adv_tab_content {
+        margin: 0;
+    }
+    .witr_taba_style1 .nav-tabs .nav-link {
+        margin-right: 0;
+    }
+    .nav-tabs {
+        -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+        justify-content: space-around !important;
+    }
+    .tab_content.text-left {
+        text-align: center !important;
+    }
+	
+	.witr_s_flex {	
+		display: inherit;
+	}
+	.poket_compair_area .em-service-icon i{
+		font-size: 20px;
+	}
+	.poket_accordion_area {
+		padding: 73px 10px 50px 10px;
+	}
+	.testimonial-meta-inner {
+		margin-top: 20px;
+	}
+	/* about area css */
+	.poket_about_area .icon-list-icon i {
+		color: #FFFFFF;
+		margin-right: 7px;
+		float: left;
+		overflow: hidden;
+		margin-bottom: 10px;
+		margin-top: 6px;
+	}
+	.about_writ_inner {
+		padding: 95px 15px 100px;
+		width: 100%;
+	}
+	.poket_about_area {
+		background-position: right;
+	}
+	.about_btn_img_flex {
+		display: inherit; 
+	}
+	.about_style2_about_area .testimonial-meta-inner {
+		display: inherit;
+	}
+	.about_style2_about_area .testimonial-image {
+		float: left;
+		margin-right: 15px;
+	}
+	.about_style2_about_area .testimonial-details {
+		margin-bottom: 20px;
+	}
+	.about_style2_img_content .witr_section_title {
+		padding-left: 50px;
+	}
+	.about_style2_about_area .witr_section_title_inner p {
+		margin-top: 15px;
+	}
+	.about_style2_about_area .single_image_area {
+		margin-left: 0;
+	}
+	.why_choose_area .witr_section_title {
+		width: 100%;
+	}
+	.about_style2_process_area .single_image.single_line_option img {
+		margin: 20px 0px 30px;
+	}
+	.surgery_doct_about_area .single_image_area {
+		margin-left: 0;
+	}
+	.ambulance_about_area .witr_counter_single {
+		display: inherit;
+	}
+	.ambulance_about_area .witr_counter_number_inn {
+		margin-top: 5px;
+	}
+	.witr_counter_6 .wirt_new_iner {
+		width: 100%;
+		margin-bottom: 20px;
+		float: inherit;
+	}
+	.slider2_content_area {
+		margin: 0px -15px 0px -15px;
+	}
+	.slider2_content_area {
+		padding: 45px 20px 115px 20px;
+	}
+	.slider2_content_area .witr_section_title_inner h3 {
+		font-size: 36px;
+		margin: 15px 0px 20px 0px;
+	}
+	.slider2_content_area  .witr_section_title_inner h1 {
+		font-size: 35px;
+		margin: -10px 0px 0px 0px;
+	}
+	.slider2_content_area .witr_section_title_inner p {
+		font-size: 24px;
+	}
+	.witr_btn {
+		padding: 10px 26px;
+	}
+	.slider2_content_area .witr_btn {
+		margin-top: 8px;
+	}
+	.poket_accordion_area.home2_accordion_area {
+		padding: 55px 0px 0px 0px;
+	}
+	.section_title_content p {
+		padding-right: 5px;
+	}
+	.poket_call_to_action .witr_bbtn {
+		display: block;
+		margin: 20px 45px 0px;
+	}
+	.poket_call_to_action .witr_section_title_inner h1, .poket_call_to_action .witr_section_title_inner h3 {
+		font-size: 32px;
+		text-align: center;
+	}
+	.poket_call_to_action .witr_btn {
+		margin-top: 15px;
+	}
+	.poket_contact_area .apartment_area {
+		padding: 70px 30px 70px 30px;
+	}
+	.witr_apartment_form  .btn {
+		padding: 19px 20px 19px 20px;
+	}
+	.video-part {
+		padding: 0px 0px 0px 0px;
+	}
+	.pricing_style_6 .witr_pricing_icon {
+		position: relative;
+		top: -35px;
+		left: 20px;
+	}
+	.pricing_style_6 .witr_pricing_icon i {
+		width: 85px;
+		height: 85px;
+		line-height: 85px;
+	}
+	.pricing-part h4 {
+		font-size: 28px;
+	}
+	.witr_ac_style, .witr_ac_style::before {
+		font-size: 17px;
+	}
+	.witr-img-pos img {
+		padding-left: 0;
+	}
+	.wirt_compair_innner {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.surgery_compair_area .wirt_compair_innner {
+		padding-right: 0;
+		margin-top: 30px;
+	}
+	.witr_ac_style {
+		padding: 19px 10px 19px 5px;
+	}
+	.counter_up_inner {
+		margin: 0px;
+	}
+	/* service area css */
+	.em-service-icon i {
+		font-size: 30px;
+	}
+	.em-service-desc p {
+		padding-right: 0px;
+	}
+	.poket_service_area {
+		margin-top: 100px;
+	}
+	.ambulance_service_area {
+		margin-top: 0;
+		padding: 100px 0 80px;
+	}
+	.ambulance_service_area .em-service-title h3 {
+		padding: 8px 0 0;
+		margin-bottom: 0px;
+	}
+	.single_service_area .witr_text_widget_inner h2 {
+		font-size: 25px;
+	}
+	.poket_service_area .em_service_text_box {
+		padding: 43px 10px 25px 60px;
+	}
+	.service_icon_box {
+		padding: 20px 20px 20px 20px;
+	}
+	.herbal_service_area {
+		margin-top: 0;
+		padding: 95px 0 8px;
+	}
+	.herbal_service_area2 .em-service2 h3, .herbal_service_area2 .em-service2 h3 a {
+		padding: 0 130px 0 0;
+	}
+	.em_service_area.surgery_service_area.amb_service_area .all_icon_color i {
+		top: 95px;
+		left: 216px;
+	}
+	.herbal_service_area  .head_padd2 h3 {
+		padding: 35px 0 0;
+	}
+	.medi_equip_servi_area3  .head_padd4 h3 {
+		padding: 30px 0 0;
+	}
+	/* swiper area css */
+	.witr_sw_text_area {
+		width: 100%;
+	}
+	.witr_ds_content_inner {
+		width:90%;
+	}
+     .w_slider_3 .witr_swiper_height {
+         transform: translateX(0) !important;
+    }
+     .w_slider_4 .witr_swiper_height {
+         margin-left:0px !important;
+    }
+     .m1.witr_swiper_height {
+         width: 100% !important;
+    }
+	.witr_swiper_area .text-left .slider_vd_icon {
+		right: 37% !important;
+		top: 12% !important;
+		display: none;
+	}
+     .witr_swiper_area .text-right .slider_vd_icon {
+         left: 40% !important;
+         top: 12% !important;
+    }
+     .witr_swiper_area .text-center .slider_vd_icon {
+         top: 12%;
+    }
+     .witr_sw_text_area.text-right, .witr_sw_text_area.text-left {
+         text-align: center !important;
+    }
+     .swiper-button-prev,.swiper-button-next {
+         display: none;
+    }
+     .witr_swiper_area .witr_btn {
+         margin-right: 0;
+         margin-bottom: 10px;
+    }
+     .text-right .witr_swiper_content h1, .text-left .witr_swiper_content h1, .text-center .witr_swiper_content h1{
+         font-size:20px;
+    }
+     .text-right .witr_swiper_content h2, .text-right .witr_swiper_content h3, .text-left .witr_swiper_content h2, .text-left .witr_swiper_content h3, .text-center .witr_swiper_content h2, .text-center .witr_swiper_content h3{
+         font-size:25px;
+    }
+     .text-right .witr_swiper_content h1, .text-right .witr_swiper_content h2, .text-right .witr_swiper_content h3, .text-right .witr_swiper_content p, .text-left .witr_swiper_content h1, .text-left .witr_swiper_content h2, .text-left .witr_swiper_content h3, .text-left .witr_swiper_content p, .text-center .witr_swiper_content h1, .text-center .witr_swiper_content h2, .text-center .witr_swiper_content h3, .text-center .witr_swiper_content p {
+         width: 100% !important;
+         margin-left: auto;
+         margin-right: auto;
+         text-align:center !important;
+    }
+	.witr_swiper_content p {
+		font-size: 17px;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+     .text-right .witr_btn_sinner, .text-left .witr_btn_sinner {
+         text-align: center !important;
+    }	
+	/* slick slider	 */
+     .em-slider-title {
+         font-size: 16px;
+         margin-bottom: 10px;
+    }
+     .em-slider-sub-title {
+         font-size: 28px;
+         margin-bottom: 0;
+    }
+     .em-slider-descript {
+         display: none;
+    }
+     .em-slider-button {
+         display: none;
+    }
+     .em-nivo-slider-wrapper .nivo-controlNav {
+         display: none;
+    }
+     .text-left .em_slider_s2_content {
+         margin-right: auto;
+    }
+     .text-right .em_slider_s2_content {
+         margin-left: auto;
+    }
+     .em-slider-sub-title {
+         line-height: 32px;
+    }
+     .em_slider_inner.text-left, .em_slider_inner.text-right{
+         text-align:center !important;
+    }
+     .em_slider_s2_image {
+         display: none;
+    }
+    /*========= banner area css ===========*/
+     .witr_banner_area {
+         height: 640px;
+    }
+     .witr_banner_content h1 {
+         font-size: 25px;
+    }
+     .witr_banner_content h2 {
+         font-size: 20px;
+    }
+     .witr_banner_content p {
+         font-size: 16px;
+         width: 87%;
+    }
+     .witr_banner_content.text-left, .witr_banner_content.text-right{
+         text-align:center !important;
+    }
+     .witr_banner_content.text-left p, .witr_banner_content.text-right p {
+         width: 100%;
+    }
+     .witr_banner_content.text-left {
+         margin-left: 0;
+    }
+     .witr_banner_content.text-right {
+         margin-right: 0;
+    }
+     .witr_video_butns {
+         display: block;
+         margin-top: 15px;
+    }
+    /*=========== banner area 2 css ===============*/
+     .banner_area {
+         text-align: center;
+    }
+     .banner-content h1, .banner-content h2, .banner-content h3 {
+         font-size: 22px;
+    }
+     .witr_float .butn, .witr_float .butn {
+         float: none;
+         display: block;
+         margin-bottom: 10px;
+         margin-right: 0;
+    }
+     .witr_btns2 {
+         display: block;
+         margin-top: 20px;
+    }
+     .banner-content form {
+         width: 100%;
+    }
+     .banner-content input {
+         width: 100%;
+    }
+     .banner-content button {
+         position: inherit;
+         margin-top: 20px;
+    }
+     .witr_deshboard {
+         margin-top: 30px;
+    }
+	/* service area */
+	.em_service_inner {
+		display: inherit;
+	}
+	.em_service_area .all_color_service {
+		padding: 0;
+	}
+	.em_service_area2 .all_icon_color i {
+		font-size: 30px;
+		width: 65px;
+		height: 65px;
+		line-height: 66px;
+		top: 85px;
+		left: 215px;
+	}
+	.all_color_service, .service_top_image::after {
+		border-radius: 0px 0px 0px 0px;
+		margin-bottom:40px;
+	}
+	.em_service_area .all_icon_color i {
+		top: 85px;
+		left: 220px;
+	}
+	.poket_service_area2.poket_service_area.home2_service_area {
+		padding: 125px 0px 0px;
+	}
+	/* call action area css */
+	.home2_togole_area .poket_button a {
+		padding: 18px 35px;
+		font-size: 17px;
+		margin-right: 0px;
+	}
+	.home2_togole_area .single_image {
+		margin: 10px 20px 0px 0px;
+		text-align: left;
+		margin-bottom: 20px;
+	}
+	.cal_to_toggole {
+		display: inherit;
+	}
+	.plastic_about_area .em-service-icon {
+		margin:0 !important;
+	}
+	/* process area css */
+	.surgery_doct_process_area .single_image.single_line_option img {
+		margin: 35px 0px 30px;
+		text-align: center;
+	}
+	.surgery_doct_process_area {
+		padding: 220px 0px 60px;
+	}
+	/* why choose area css */
+	.why_choose_area .witr_btn {
+		margin-bottom: 30px;
+	}
+	.home2_togole_area .poket_button.no_margin {
+		margin-top: 0;
+		width: 38%;
+	}
+	.home2_togole_area .poket_button.no_margin {
+		margin-top: 0;
+		width: 60%;
+	}
+	.dental_choose_area .about_content_inner {
+		padding: 0;
+	}
+	.herbal_choose_area.meet_doctors_accordion, .herbal_choose_area .witr_text_widget {
+		padding: 0;
+	}
+	.why_choose_area .witr_text_widget_inner h1, .why_choose_area .witr_text_widget_inner h2 {
+		font-size: 23px;
+	}
+	.surgery_compair_area .em-service-desc p {
+		padding-right:0;
+	}
+	.choose_inner {
+		margin: 0 0px;
+	}
+	.choose_middlei_mg_inner {
+		margin-left: 0;
+		margin-top:0;
+	}
+	.ambulance_choose_area .em-service-inner {
+		margin-bottom: 70px;
+	}
+	.poket_accordion_area.meet_doctors_accordion ,
+	.why_choose_area .witr_text_widget {
+		padding: 0;
+	}
+	.ambulance_choose_area .witr_section_title_inner p {
+		width: 100% !important;
+	}
+    /*=========== Slick area 2 css ===============*/
+     .witr_ds_content {
+         height: 600px;
+         background-size: cover;
+         background-position: center center;
+         overflow: hidden;
+    }
+     .text-right .witr_ds_content_inner h1, .text-right .witr_ds_content_inner h2, .text-right .witr_ds_content_inner h3, .text-right .witr_ds_content_inner p, .text-left .witr_ds_content_inner h1, .text-left .witr_ds_content_inner h2, .text-left .witr_ds_content_inner h3, .text-left .witr_ds_content_inner p, .text-center .witr_ds_content_inner h1, .text-center .witr_ds_content_inner h2, .text-center .witr_ds_content_inner h3, .text-center .witr_ds_content_inner p {
+         width: 100% !important;
+         margin-left: auto;
+         margin-right: auto;
+         text-align:center !important;
+    }
+     .text-right .witr_ds_content_inner h1, .text-right .witr_ds_content_inner h2, .text-right .witr_ds_content_inner h3, .text-left .witr_ds_content_inner h1, .text-left .witr_ds_content_inner h2, .text-left .witr_ds_content_inner h3, .text-center .witr_ds_content_inner h1, .text-center .witr_ds_content_inner h2, .text-center .witr_ds_content_inner h3{
+         font-size:23px;
+    }
+     .witr_btn {
+         margin-right: 0;
+    }
+     .slider_btn {
+         text-align: center;
+    }
+     .section-title.t_center {
+         width: 100%;
+    }
+     .section-title.t_left {
+         width: 100%;
+    }
+     .section-title.t_right {
+         width: 100%;
+    }
+     .top-address p a, .top-right-menu ul.social-icons li a, .top-address p span {
+         font-size: 13px;
+    }
+     .top-right-menu ul.social-icons {
+    }
+    /* footer bar */
+     .footer-top-inner p {
+         width: 100%;
+    }
+     .footer-menu ul {
+         margin: 10px 0 0;
+         text-align: center !important;
+    }
+     .footer-menu ul li a {
+         font-size: 14px;
+    }
+     .copy-right-text p {
+         text-align: center;
+    }
+     .breadcumb-blog-area {
+         padding: 50px 0;
+    }
+	.footer-middle .recent-post-text>h4 {
+		text-align: center;
+	}
+    /* blog css */
+     .em-blog-content-area {
+         padding: 20px 10px 5px;
+    }
+     .poket-blog-meta-left a, .poket-blog-meta-left span {
+         font-size: 14px;
+         margin-right: 3px;
+    }
+     .poket-blog-meta-right a, .poket-blog-meta-right span {
+         font-size: 11px;
+         margin-left: 3px;
+    }
+    /* single blog */
+	.single_blog_thumb img {
+		height: 250px;
+	}
+	.comments-area {
+		margin-left: -20px;
+	}
+	.single_blog.single_blog_grid.singles {
+		margin-left: -20px;
+	}
+	.medical-single-blog-details-inner {
+		padding: 38px 30px 45px;
+	}
+	.medical-single-icon-inner a {
+		margin-bottom: 5px;
+	}
+     .post_reply ul, .blog-content ul, .single-blog-content ul {
+         padding-left: 20px;
+    }
+     .post_reply ol, .blog-content ol, .single-blog-content ol {
+         padding-left: 20px;
+    }
+     .comments-area .children {
+         margin-left: 10px;
+    }
+     .comment_field .input-field {
+         width: 100%;
+    }
+     .pdsr {
+         padding-top: 50px;
+    }
+     .pdsl {
+         padding-bottom: 90px;
+    }
+     #wp-calendar {
+         display: block;
+    }
+    /* footer css */
+     .copy-right-text p {
+         font-size: 11px;
+    }
+     .footer-social-icon a i {
+         font-size: 16px;
+         height: 35px;
+         line-height: 35px;
+         width: 35px;
+    }
+    /* Em-Creative Header */
+     .creative_header_curve {
+         display: none;
+    }
+     .creative_header_logo {
+         padding-right: 0;
+         text-align: center;
+    }
+     .em_creative_header {
+         background: transparent none repeat scroll 0 0;
+         z-index: 999;
+    }
+     .single_header_address {
+         padding: 10px 71px 10px 0;
+         text-align: center;
+    }
+     .creative_header_button {
+         background: #f9f9f9 none repeat scroll 0 0;
+         padding: 30px 0;
+         position: relative;
+         text-align: center;
+    }
+     .creative_header_icon {
+         float: none;
+         margin-bottom: 10px;
+         margin-right: 0;
+         overflow: hidden;
+    }
+     .creative_header_address .col-sm-4.col-xs-12{
+         padding-left:0;
+    }
+     .creative_header_logo {
+         display: none;
+    }
+     .creative_header_button:before, .em_creative_header:before, .em_creative_header:after {
+         display: none;
+    }
+     .single_header_address.ctrp {
+         padding-bottom: 40px;
+    }
+    /* new css */
+    /* footer css */
+	.recent-post-image {
+		float: none;
+	}
+	.witr-blog-side-area.blog_sidebar .recent-post-image{
+		float:left;
+	}
+     .copy-right-text p {
+         font-size: 15px;
+    }
+     .poket-blog-thumb img {
+         width: 100%;
+    }
+    /* section title css */
+     .witr_section_title_inner h1, .witr_section_title_inner h2, .witr_section_title_inner h3{
+         font-size: 21px;
+         line-height: 30px;
+    }
+	.witr_section_title_inner h2 {
+		font-size: 15px;
+	}
+     .title_in:before, .title_in:after {
+         background: none;
+    }
+     .title_tx h2 {
+         font-size: 16px;
+         line-height: 20px;
+    }
+     .title_in {
+         float: none;
+         padding-right: 0;
+    }
+     .title_in_area, .witr_section_title_inner.text-center p, .witr_section_title_inner.text-left p, .witr_section_title_inner.text-right p {
+         width: 100%;
+		 padding-right: 0px;
+    }
+     .witr_section_title_inner p {
+         padding-top: 10px;
+		 
+    }
+     .witr_section_title{
+         text-align: center;
+    }
+     .witr_section_title .text-right {
+         text-align: center !important;
+    }
+     .title_btn {
+         margin: 30px 0 20px;
+    }
+    /* about css */
+     .witr_text_widget_inner h1, .witr_text_widget_inner h2 {
+         font-size: 20px;
+         line-height: 36px;
+    }
+     .witr_text_widget_inner p, .about-content span{
+         font-size: 16px;
+    }
+	.plastic_about_area .about_content_inner {
+		padding: 0;
+	}
+    /* feature area */
+	.dental_feature_area {
+		margin-top: 0;
+		padding: 100px 0 80px;
+	}
+     .em_feature-icon {
+         font-size: 18px;
+         margin-right: 15px;
+    }
+     .em_feature-icon i {
+         float: none;
+    }
+     .em-feature-title h2 {
+         margin-top: 0;
+         margin-bottom: 0;
+    }
+     .witr_feature_content_3d h3 {
+         font-size: 21px;
+    }
+     .sub-item h3 {
+         font-size: 21px;
+    }
+     .w_apps_button_area {
+         text-align: center;
+    }
+     .witr_app_area .digital-content h3 {
+         margin: 0 !important;
+         font-size: 25px;
+    }
+	.em_feature_area {
+		margin-top: 100px;
+	}
+	.em_service_inner {
+		margin-right: 0;
+		margin-bottom: 30px;
+	}
+	.em_feature_area .single_image img {
+		margin-bottom: 0px;
+	}
+    /* Screenshots css */
+     .dnSlide-main.done {
+         -webkit-transform: scale(0.4);
+         transform: scale(0.4);
+         margin-left: -280px;
+         top: -120px;
+    }
+     .Screenshots-fearm img {
+         width: 260% !important;
+         max-width: 260% !important;
+         left: -65px;
+    }
+     .dnSlide-main img{
+         width: 100%;
+    }
+     .dnSlide-btn {
+         display: none;
+    }
+     .Screenshots-area .Screenshots-frame-img {
+         left: -64%;
+         top: -13px;
+         width: 232%;
+    }
+     .digital-item ul li a {
+         padding: 7px 27px;
+    }
+     .mobil-item {
+         margin-top: 30px;
+    }
+    /* countdown css */
+	span.cdowns {
+		margin-bottom: 0px;
+	}
+	.medical_counterdown_area span.cdowns{
+		margin-bottom: 20px;
+	}
+     span.cdowns:before {
+         display: none;
+    }
+     span.cdowns:after {
+         display: none;
+    }
+	.working_hours_area .all_list_color h3 a, .working_hours_area .all_list_color h3 {
+		font-size: 30px;
+	}
+	
+    /* testomonial css */
+     .testomonial.testomonial-5 .test-part img.testimg {
+         top: 88%;
+    }
+     .testomonial .test-part img {
+         margin: 0 !important;
+    }
+     .em_test_thumb {
+         margin-right:15px;
+    }
+     .em_testi_title h2 {
+         font-size: 17px;
+    }
+     .testiCreCon {
+         padding: 8px 20px 30px 20px;
+    }
+     .witr_content_test7 {
+         padding: 0;
+    }
+	.testimonial_area2 {
+		padding: 95px 0px;
+	}
+	.herbal_testi_area .witr_testomonial_area {
+		width: 95%;
+	}
+	.medi_equip_testi_area .witr_section_title_inner p {
+		width: 100% !important;
+	}
+    /* testomonial style 8 css */
+     .witr_testomonial_area {
+         width: 100%;
+    }
+     .witr_test_part {
+         float: none;
+         margin-left: 0;
+         margin-right: 0;
+    }
+     .witr_test_part img {
+         margin: auto;
+    }
+     .witr_testi_main {
+         width: 100%;
+    }
+	.ambulance_tesimonial_area .em_single_testimonial {
+		padding: 65px 30px 66px;
+	}
+	.herbal_testi_area .witr_test_content p {
+		width: 90%;
+	}
+    /* video css */
+     .video-part .video-overlay .video-item h3 {
+         color: #fff;
+         font-size: 25px;
+    }
+     .video-part .video-overlay {
+         padding: 110px 0 !important;
+    }
+    /* service css */
+     .service-item {
+         text-align: center;
+    }
+     .em-service2.sleft .em-service-icon, .em-service2.sright .em-service-icon {
+         float: none;
+         margin-bottom: 10px;
+    }
+     .witr_service2_box {
+         text-align: center;
+    }
+     .witr_custom2_icon {
+         float: none;
+         margin-right: 0;
+         margin-bottom: 15px;
+    }
+     .witr_service3_box {
+         text-align: center;
+    }
+     .witr_service3_icon {
+         float: none;
+         margin-right: 0;
+         margin-bottom: 15px;
+    }
+    /* tab css */
+     .poket_tab li {
+         margin-bottom: 20px;
+    }
+	.witr_adv_tab_content {
+		margin-top: 30px;
+	}
+     .witr_taba_style1 .nav-tabs .nav-link {
+         margin-right: 0px;
+    }
+    /* accourdion css */
+     .witr_ac_style:before, .active .witr_ac_style:before {
+         right: 10px;
+    }
+	.accordion_area {
+		margin-right: 0px;
+		margin-left: 0;
+	}
+     .poket-accourdion-title h2{
+         font-size: 14px;
+         padding-left: 20px;
+    }
+	.plastic_choose_area.meet_doctors_accordion, .plastic_choose_area .witr_text_widget {
+		padding: 0px 0px 0px 0px;
+	}
+	.faq_area2 .accordion_left_img {
+		margin-left: 0;
+	}
+	.faq_area2 .witr_ac_style {
+		padding: 10px 20px 10px 0px;
+	}
+    /* blog css */
+     .blog-img img {
+         width: 100%;
+    }
+     .witr_blog_con h2 {
+         font-size: 21px;
+    }
+     .witr_post_Author {
+         margin: 0 10px;
+    }
+	.recent-post-image img {
+		margin-bottom: 15px;
+	}
+    /* counter css */
+    .witr_counter_single {
+		margin-bottom: 20px;
+	}
+	.poket_video_area {
+		padding: 200px 0px 280px 0px;
+	}
+	.mc4wp-form-fields button {
+		margin-left: 0px;
+	}
+	.witr_counter_icon i{
+         margin-bottom: 15px;
+         margin-right: 20px;
+         float: none;
+    }
+     .witr_custom_icon {
+         margin-bottom: 10px;
+    }
+     .witr_custom_icon i{
+         margin-right: 0;
+         float: none;
+    }
+	.why_choose_area .witr_s_flex {
+		display: inherit;
+	}
+	.em-service2 .em-service-inner {
+		padding-right: 0px; 
+	}
+	/* circle area css */
+	.progress_bar_circle_area .witr_circle_area {
+		margin-bottom: 35px;
+	}
+    /* video css */
+     .video-play-6 {
+         width: 80%;
+    }
+     .subscribe form input {
+         width: 500px;
+    }
+     .download-content-6 ul li a {
+         padding: 12px 46px 12px 80px;
+    }
+     .donwload-overlay {
+         padding-top: 215px;
+    }
+     .video-part .video-overlay {
+         padding: 200px 0;
+    }
+     .digital-img {
+         margin-top: 100px;
+    }
+	.dental_video_area .witr_videobg_image img {
+		height: 200px!important;
+	}
+	.dental_video_left_inner {
+		padding-left: 0;
+	}
+	.dental_video_area {
+		margin: -110px 0 0;
+	}
+    /* contact css */
+     .field.topfield .form-field {
+         float: none;
+         width: 100%;
+    }
+     .form-controls .field.topfield .form-field:nth-child(2n) {
+         margin-left: 0;
+    }
+     .witr_field1 .witr_form_field1 {
+         width: 100%;
+    }
+     .witr_form_controls1 .witr_field1 .witr_form_field1:nth-child(2n) {
+         margin-left: 0;
+    }
+    /* apps_button css */
+     .w_apps_button_image {
+         margin-right: 0;
+         margin-bottom: 20px;
+    }
+     .tab_content.text-left {
+         text-align: center !important;
+    }
+    /* blog css */
+     .footer-middle {
+         text-align: center;
+    }
+     .blog-content h5 > a {
+         font-size: 17px;
+    }
+     .blog-content span {
+         font-size: 12px;
+    }
+     .blog-page-title h2 {
+         font-size: 17px;
+    }
+     .wblog-content h5 > a {
+         font-size: 20px;
+    }
+     .wblog-content span {
+         margin-right: 5px;
+    }
+     .blog-left-side .blog-title > ul > li > a {
+         margin-right: 8px;
+    }
+     .widget .widget_media_image img{
+         width:100%;
+    }
+    .recent-post-text > h4 {
+		margin-top: 2px;
+		line-height: 1;
+		text-align: left;
+	}
+	.recent-post-text h4 a {
+		font-size: 17px;
+	}
+     .witr_post_Author6{
+    }
+     .witr_blog_con6 h2 {
+         font-size: 17px;
+    }
+     .witr_blog_con6 h5 a {
+         font-size: 15px;
+    }
+    /* call to action */
+     .all_cal_color {
+         text-align: center;
+    }
+	.poket_call_toggle_area  .departmentList {
+		 border-style: none; 
+		 padding: 30px 20px 0px 20px;
+	}
+	.departmentList {
+		padding: 73px 20px 65px;
+	}
+     .poket_video_inner{
+         top: 21px;
+    }
+     .poket_video11.poket_video_inner{
+         top: 50%;
+    }
+     .poket_button a {
+         margin-bottom: 30px;
+         margin-right: 0px;
+    }
+     .poket_content h2, .poket_content h3{
+         font-size: 23px;
+    }
+	.ambulance_call_action_area .poket_content h2, .ambulance_call_action_area .poket_content h3{
+         margin:0 10px;
+    }
+     .witr_9 .poket_video_inner{
+         margin-bottom: 73px;
+    }
+     .witr_b9 {
+         margin-top: -10px;
+    }
+     .poket_content {
+         margin-bottom: 30px;
+    }
+     .mc4wp-form-fields button {
+         width: 100%;
+         position: inherit;
+         padding: 25px 30px;
+         margin-top: 25px;
+    }
+     .witr_joined .witr_con_btn2 .w_btn2 {
+         position: inherit;
+         width: 100%;
+    }
+     .witr_sstyle_9 {
+         padding: 42px 20px 50px;
+    }
+     .w_apps_button {
+         margin-bottom: 30px;
+    }
+	.dental_togole_area .witr_btn_sinner {
+		text-align: center;
+	}
+	.dental_togole_area .witr_btn {
+		margin-bottom: 35px;
+		margin: 0 19px 35px;
+	}
+	.ambulance_call_action_area .poket_content p {
+		width: 100%;
+	}
+	.ambulance_call_action_area {
+		padding: 80px 0 20px;
+	}
+	.plastic_togole_area .witr_section_title {
+		padding-right: 10px;
+	}
+	.herbal_call_action .poket_content {
+		margin-bottom: 0;
+		text-align: center;
+	}
+	.herbal_call_action .poket_content p {
+		width: 100%;
+	}
+	.herbal_call_action .poket_content h2, .herbal_call_action .poket_content h3 {
+		font-size: 23px;
+	}
+	.herbal_call_action .poket_button {
+		text-align: center;
+	}
+	.herbal_call_action .poket_video_inner {
+		margin-bottom: 30px;
+	}
+	.ps_about_service_inner {
+		margin-top: 0;
+	}
+	.ps_about_service_inner {
+		margin-right: 10px;
+		margin-left: 8px;
+	}
+	.plastic_about_area .em-service-inner {
+		margin-top: 0;
+	}
+    /* single portfolio2 */
+     .portfolio-details-box {
+         margin-left: 0;
+    }
+     .portfolio-details-box ul li span.eright {
+         font-size: 15px;
+         margin-left: 0;
+    }
+     .portfolio-details-box ul li b {
+         font-size: 15px;
+    }
+     .portfolio-details-box h2 {
+         padding-top: 20px;
+    }
+     .portfolio-details-box .poket-single-icon-inner a {
+         margin: 0 4px;
+    }
+    /* single_protfolio css */
+     .single_protfolio {
+         margin-bottom: 30px;
+    }
+     .portfolio_nav ul li {
+         padding: 6px 20px;
+    }
+	
+    /* contact css */
+     .witr_field2 .witr_form_field2, .witr_field2 .witr_form_field2 {
+         float: none;
+         width: 100%;
+    }
+     .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd), .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd) {
+         margin-right: 0;
+    }
+    /* display none css*/
+     .owl-nav, .slick-prev, .slick-next, .em-nivo-slider-wrapper .nivo-directionNav {
+         display: none;
+    }
+    /* timeline css*/
+     .witr_sicon_bottom.witr_hd_timeline_contant {
+         padding-bottom: 20px;
+         padding-top: 30px;
+    }
+     .mrl65 {
+         margin-left: 16px;
+         padding-top: 25px;
+    }
+     .mrl110 {
+         margin-left: 17px;
+         padding-top: 25px;
+        ;
+    }
+     .mrr90 {
+         margin-right: 15px;
+    }
+     .mrr50 {
+         margin-right: 14px;
+    }
+     .mrr15 {
+         margin-right: 14px;
+    }
+    /* static tab css*/
+     .poket_event_thumb {
+         float: none;
+         margin-bottom: 15px;
+    }
+     .poket_single_event {
+         margin: 0;
+    }
+     .poket_event_icon span {
+         margin-right: 5px;
+    }
+     #sb_instagram .sbi_photo_wrap {
+         margin-bottom: 25px;
+    }
+     .testomonial-slide .slick-prev, .blog_wrap .slick-prev {
+         left: 15px;
+    }
+     .testomonial-slide .slick-next, .blog_wrap .slick-next {
+         right: 15px;
+    }
+     .em-feature {
+         margin-bottom: 23px;
+    }
+     .single_counter {
+         margin-bottom: 20px;
+    }
+     .woocommerce div.product .woocommerce-tabs ul.tabs li a {
+         padding: .5em 6px;
+    }
+     .woocommerce div.product .woocommerce-tabs ul.tabs li {
+         padding: 0px .5em;
+         margin-right: 6px;
+    }
+     .poket-header-top {
+         display:none;
+    }
+     .accordion_area {
+         padding-top: 30px;
+    }
+     .footer-sociala-icon {
+         float: none;
+    }
+     .footer-sociala-info p {
+         text-align: center;
+    }
+    /*====== new css ======= */
+    /* ab_videoArea */
+     .ab_videoArea {
+         padding: 44px 23px 40px;
+    }
+     .singleAbSlide {
+         position: inherit;
+         bottom: -30px;
+         right: 0;
+         left: 0;
+    }
+    /* service */
+     .singleSS {
+    }
+     .detail_SS h3 {
+         font-size: 21px;
+    }
+     .em_single_testimonial {
+         padding: 37px 20px 26px;
+    }
+     .witr_testi_itemt {
+         padding: 0px;
+    }
+     .em_testi_logo {
+         right: 15px;
+         top: 35px;
+    }
+     .witr_nth_child:nth-child(2n) {
+         margin-top: 0;
+    }
+	.img_text_part_dflex,	
+	.two_part_dflex {
+		display: inherit;
+		text-align: center;
+	}
+	.single_2p_testimonial {
+		text-align: center;
+	}
+	.title_and_sub {
+		margin: 10px 0;
+	}	
+    /* about css */
+     .witr_text_widget_inner h1, .witr_text_widget_inner h2 {
+         font-size: 23px;
+    }
+     .witr_about_content {
+         text-align: center;
+    }
+     .witr_about_content h3 {
+         font-size: 30px;
+    }
+     .witr_about_image {
+         margin-top: 30px;
+    }
+     .witr_service3_box {
+         top: 50%;
+         transform: translateX(-50%) translateY(-50%);
+         left: 50%;
+        padding: 0;
+    }
+     .em_slider_social {
+         top: 40%;
+         display: none;
+    }
+	.about_content_inner {
+		padding: 15px 0px 0 0px;
+	}
+	.surgery_doct_about_area .testimonial-meta-inner {
+		display: inherit;
+	}
+	.surgery_doct_about_area .testimonial-details {
+		margin-left: 52px;
+	}
+    /* team css */
+     .witr_back_img img {
+         height: 554px !important;
+         height: auto;
+    }
+	.ambulance_team_area .post_team11_area .team_o_icons {
+		right: 80px;
+	}
+	.poket_team2_area .witr_section_title_inner h3 {
+		font-size: 29px;
+	}
+	.post_team_idteam .slick-prev, .post_team_idteam .slick-next {
+		opacity: 0;
+	}	
+    /* new css add */
+     .witr_dis_btngr {
+         display: inherit;
+    }
+     .witr_circal_r {
+         margin-left: 0;
+    }
+     .witr_event_style_5 .witr_event_d {
+         padding-top: 3px;
+    }
+     .witr_event_style_5 .witr_event_btn {
+         margin-top: 5px;
+    }
+     .witr_appoimentle{
+         position: initial !important;
+    }
+     #scrollUp {
+         bottom: 134px;
+         right: 30px;
+    }
+	.footer-bottom:before {
+		width: 85%;
+	}	
+	.poket_features_area {
+		margin-top: 100px;
+	}
+	.witr_section_right {
+		padding: 40px 0px 0px 0px;
+	}
+	.contact2 .apartment_area {
+		margin: 0px 0px 0px 0px;
+	}	
+	.contact2 .apartment_text p {
+		font-size: 28px;
+	}	
+	.poket_skill_area .witr_section_title_inner h3 {
+		font-size: 22px;
+	}	
+	.skill_inner_area {
+		padding-bottom: 80px;
+	}
+	.witr_lf_area {
+		margin-bottom: 50px;
+		margin-top: 0px;
+	}	
+	.poket_skill_area .text_box {
+		padding: 10px 15px 31px 15px;
+	}
+	.witr_section_right  .witr_section_title_inner h3 {
+		font-size: 23px;
+	}	
+	.vision_thumb_area {
+		margin-top: 30px;
+	}	
+	.poket_service2_area .witr_custom2_icon {
+		float: left;
+	}	
+	.contact_thumb_area {
+		margin-bottom: 40px;
+	}	
+	.witr_taba_style1 .nav-tabs .nav-link {
+		padding: 20px 24px;
+	}
+	.style_2 .all_pricing_color ul li:nth-child(odd) {
+		padding: 0px 55px 0px;
+	}
+	.style_2 .all_pricing_color ul li {
+		padding: 0px 55px 0px;
+	}
+	.privacy_title .witr_section_title_inner h3 {
+		font-size: 19px;
+	}
+	.poket_heading_bg_area .witr_animate_content h1 {
+		font-size: 26px;
+	}
+	.countdown_page .witr_section_title_inner h3 {
+		font-size: 27px;
+	}
+	.brpt h2 {
+		font-size: 30px;
+	}
+
+	.poket_contact_area .em-service2.sleft .em-service-icon {
+		float: none;
+	}
+	.contact_em_top {
+		margin-top: 0px;
+		margin-bottom: 30px;
+	}
+	.home2_service .witr_section_title_inner {
+		text-align: center;
+	}	
+	.home2_service .text-right {
+		text-align: center!important;
+	}	
+	.skill_title_bg {
+		padding: 93px 30px 30px 30px;
+	}	
+	.skill_title_bg.title2 {
+		background: #ff3d00;
+		padding: 50px 30px 100px 30px;
+	}
+
+	.witr_6 .poket_content p, .witr_5 .poket_content p {
+		width: 100%;
+		margin: auto;
+	}
+
+	.list_item2 {
+		margin-left: 0px;
+	}
+	.list_item3 {
+		margin-left: 0px;
+	}
+	.poket_contact_bg_area {
+		background-position: center right;
+	}
+	.department_inner {
+		display: inherit;
+	}
+	.working_team_inner {
+		margin-right: 0;
+	}
+	.working_hours_area .all_list_color h3 a, .working_hours_area .all_list_color h3 {
+		font-size: 22px;
+	}
+
+
+	
+	
+	
+	
+}
+
+
+
+/* ------------------------------------------------- Large Mobile :480px. ---------------------------------------------------*/
+ @media only screen and (min-width: 480px) and (max-width: 767px) {
+     .em-slider-button {
+         display: block;
+    }
+     .em-nivo-slider-wrapper .nivo-directionNav {
+         display: block;
+    }
+     .em-button-button-area a {
+         margin-right: 5px;
+         margin-top: 15px;
+         padding: 3px 20px;
+         font-size: 12px;
+    }
+	.em_service_area2 .all_icon_color i {
+		top: 135px;
+		left: 300px;
+	}
+	.poket_call_to_action .witr_bbtn {
+		display: block;
+		margin: 20px 125px 0px;
+	}
+	.recent-post-item {
+		margin-bottom: 30px;
+	}
+	.recent-post-text h4 a {
+		font-size: 21px;
+	}
+    /*=========== banner area 2 css ===============*/
+     .banner-content button {
+         position: absolute;
+    }
+    /* portfolio css */
+     .portfolio_nav ul li {
+         margin: 0 2px 10px;
+    }
+    /* banner area css */
+     .witr_banner_area {
+         height: 600px;
+    }
+     .witr_banner_content.text-right p {
+         width: 92%;
+         margin:auto;
+         font-size:17px;
+    }
+     .witr_banner_content.text-left p {
+         width: 92%;
+         margin:auto;
+         font-size:17px;
+    }
+    /* section_title */
+     .witr_section_title_inner h1, .witr_section_title_inner h2, .witr_section_title_inner h3 {
+         font-size: 25px;
+    }
+	.witr_section_title_inner h2 {
+		margin-bottom: 4px;
+		font-size: 15px;
+	}
+     .witr_section_title_inner.text-center p, .witr_section_title_inner.text-left p, .witr_section_title_inner.text-right p {
+         width: 91%;
+    }
+    /* text_widget css */
+     .witr_text_widget_inner p, .about-content span{
+         font-size: 17px !important;
+    }
+    /* blog css */
+     .blog-part {
+         text-align: center;
+    }
+    /* Screenshots css */
+     .dnSlide-main.done {
+         -webkit-transform: scale(0.7);
+         transform: scale(0.7);
+         margin-left: -196px;
+    }
+     .Screenshots-fearm img {
+         width: 256% !important;
+         max-width: 256% !important;
+         left: -98px;
+         top: 49px;
+    }
+     .poket-header-top {
+         display:block;
+    }
+	.witr_feature_13 .sub-item::after, .witr_feature_13 .sub-item:before {
+		top: 53%;
+	}
+	/* about page about */
+	.about_page_area_about .all_color_service {
+		padding: 33px 9px 50px;
+	}
+		.home2_togole_area .poket_button.no_margin {
+		margin-top: 0;
+		width: 38%;
+	}
+}
+/* menu and logo show & hide */
+ @media (min-width: 10px) and (max-width: 991px){
+     .mobile-menu{
+         display:block !important;
+    }
+     .mobile_logo_area{
+         display:block !important;
+    }
+     .poket-main-menu{
+         display:none !important;
+    }
+     .d_md_none{
+         display:none !important;
+    }
+     .em-feature {
+         margin-bottom: 20px;
+    }
+     .single_counter {
+         margin-bottom: 20px;
+    }
+}
+ @media (min-width: 10px) and (max-width: 991px){
+     .text_m_center{
+         text-align:center !important;
+    }
+     .text_m_right{
+         text-align:right !important;
+    }
+     .text_m_left{
+         text-align:right !important;
+    }
+     .menu_18.top-address p span {
+         font-size: 13px;
+    }
+     .footer-top-inner p {
+         width: 85%;
+    }
+     .witr_joined .witr_con_btn2 .w_btn2 {
+         position: inherit;
+         width: 100%;
+    }
+}
+ @media (min-width: 10px) and (max-width: 768px){
+     .ps_absulate{
+         position: inherit !important;
+    }
+     .psc_absolute{
+         position: inherit !important;
+    }
+}
+ @media (min-width: 570px) and (max-width: 767px){
+     .text_s_center{
+         text-align:center !important;
+    }
+     .text_s_right{
+         text-align:right !important;
+    }
+     .text_s_left{
+         text-align:right !important;
+    }
+     .footer-top-inner p {
+         width: 95%;
+    }
+}
+ @media (min-width: 10px) and (max-width: 570px){
+     .poket-header-top{
+         display:none;
+    }
+}
+ 

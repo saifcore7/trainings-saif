@@ -1,0 +1,3777 @@
+
+/*
+Template Name: 
+Author Name: WPEXPERT
+
+*/
+/*
+Table Of Content
+
+1. Top Menu CSS
+2. Menu Area CSS
+3. Slider Area CSS
+4. Feature Area CSS
+5. About Area CSS
+6. Serivce Area CSS
+7. Vision Area CSS
+8. Team Area CSS
+9. Call Action Area CSS
+10. Skill Area CSS
+11. Pricing Area CSS
+12. Faq Area CSS
+13. Project Area CSS
+14. Contact Area CSS
+15. Blog Area CSS
+16. Footer Area CSS
+17. Breadcumb Area CSS
+18. Working Hours Area CSS
+19. Time Table Area CSS
+
+
+
+
+
+4. Brand Area CSS
+8. Skill Area CSS
+9. Tab Area CSS
+
+
+12. Faq Area CSS
+
+14. Testimonial Area CSS
+15. Video Area CSS
+
+17. Footer Area CSS
+18. Breadcumb Area CSS
+19. Contact Area CSS
+20. Pricing Area CSS
+
+
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+
+/*theme css*/
+a {
+    color: #666;
+    transition: .5s;
+}
+ a:hover {
+     text-decoration: none;
+     color:#c94d2f;
+}
+ body {
+	font-family: Rubik,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.6;
+    color:#666;
+}
+ p {
+     font-style: normal;
+}
+ h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
+    font-family: Rajdhani,sans-serif;
+    font-style: normal;
+    line-height: 1.2;
+    font-weight: 700;
+    -webkit-transition: .5s;
+    transition: .5s;
+    font-size: 25px;
+    transition: .5s;
+    margin-bottom: 5px;
+    color:#191a1a;
+}
+ .btn-primary:focus, select:focus, textarea:focus, input:focus{
+     box-shadow: none !important;
+}
+ textarea, input{
+     outline:none;
+}
+ a:focus, .btn:focus {
+     text-decoration: none;
+     outline: none;
+}
+ .uppercase {
+     text-transform: uppercase;
+}
+ .capitalize {
+     text-transform: capitalize;
+}
+.witr_section_title_inner h1, .witr_section_title_inner h2, .witr_section_title_inner h3 {
+    font-size: 40px;
+    margin: auto;
+    font-weight: 700;
+    line-height: 1.4;
+}
+.witr_section_title_inner h2 {
+    font-size: 18px;
+    display: inline-block;
+    border-radius: 30px;
+    margin-bottom: 12px;
+    color: #c94d2f;
+}
+.witr_section_title {
+    margin-bottom: 45px;
+}
+.witr_section_title_inner.text-center p {
+    width:67%;
+    margin-right: auto;
+    margin-left: auto;
+	margin-top: 10px;
+}
+.witr_section_title_inner h1 span, .witr_section_title_inner h2 span, .witr_section_title_inner h3 span, .witr_section_title_inner p span, .witr_section_title_inner p span a {
+    color: #c94d2f;
+	margin: 0 7px 0 0;
+}
+.witr_section_title_inner p {
+    width: 100%;
+    padding: 10px 0 6px;
+    margin-top: 10px;
+}
+.witr_all_pd0{
+	padding:0;
+}
+/* ===== 1. Top Menu CSS ===== */
+.poket-header-top .container-fluid{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+ .em40_header_area_main.hdisplay_none {
+     display: none;
+}
+.poket-header-top {
+    background: #c94d2f;
+    padding: 10px 0px;
+}
+ .top-address p {
+     margin-bottom: 0;
+}
+ .top-address p span, .top-address p a {
+     margin-right: 20px;
+}
+ .top-address p span i, .top-address p a i {
+     font-size: 13px;
+     color: #fff;
+     margin-right: 5px;
+}
+ .top-address p span i:hover, .top-address p a i:hover{
+
+ }
+ .top-address p a {
+     display: inline-block;
+     text-decoration: none;
+     -webkit-transition: all 0.2s ease-in-out;
+     transition: all 0.2s ease-in-out;
+}
+/* TOP socia CSS */
+ .top-right-menu ul.social-icons {
+     margin: 0;
+     padding: 0;
+}
+ .top-right-menu ul.social-icons li {
+     display: inline-block;
+     margin-left: 10px;
+     position: relative;
+}
+ .top-right-menu ul.social-icons li a {
+     display: inline-block;
+     text-decoration: none;
+     -webkit-transition: all 0.2s ease-in-out;
+     transition: all 0.2s ease-in-out;
+     font-size: 15px;
+}
+.top-welcomet p span, .top-welcomet p a, .top-welcome p span, .top-welcome p a, .top-welcome p, .top-address p a, .top-right-menu ul.social-icons li a, .top-address p span {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
+ .top-welcome p a:hover{
+     color:#17161a;
+}
+.top-right-menu .social-icons li a:hover, .top-right-menu .social-icons li a i:hover {
+    color: #17161a;
+}
+ .top-both-p0 .top-address p a, .top-both-p0 .top-address p span {
+     margin-right: 0px;
+     margin-left: 12px;
+}
+@media (min-width: 1200px){
+	.container {
+		max-width: 1140px;
+	}
+}
+/* ===== 2. Menu Area CSS ===== */
+.poket_nav_area, .trp_nav_area .container-fluid,
+.transprent-menu .poket_nav_area .container-fluid{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.trp_nav_area {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 9999;
+    transition: .5s;
+}
+.logo-right,
+.logo-left {
+    align-items: center;
+}
+.mobile_menu_logo.text-center {
+     padding: 20px 0;
+}
+
+/* LOGO CSS */
+ .logo a {
+     display: inline-block;
+}
+
+/* logo sticky */
+ .poket-main-menu .logo a.main_sticky_main_l {
+     display: block;
+}
+ .poket-main-menu .logo a.main_sticky_l {
+     display: none;
+}
+/* logo pre */
+ .poket-main-menu .prefix .logo a.main_sticky_main_l {
+     display: none;
+}
+ .poket-main-menu .prefix .logo a.main_sticky_l {
+     display: block;
+} 
+
+
+/* MENU text CSS */
+ .poket_menu ul {
+     text-align: right;
+     list-style: none;
+}
+ .poket_menu > ul > li {
+     display: inline-block;
+     position: relative;
+}
+.poket_menu > ul > li > a {
+    display: block;
+    margin: 35px 18px;
+    transition: .5s;
+    position: relative;
+    font-size: 18px;
+    font-weight: 700;
+    color: #272727;
+    font-family: Rajdhani,sans-serif;
+}
+ .poket_menu > ul > li > a:before, .poket_menu > ul > li.current > a:before {
+     background: #ffb600 none repeat scroll 0% 0;
+     bottom: -7px;
+     content: "";
+     height: 2px;
+     left: 0;
+     margin: auto;
+     opacity: 0;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+     position: absolute;
+     right: 0;
+     -webkit-transition: all 0.5s ease 0s;
+     transition: all 0.5s ease 0s;
+     width: 15%;
+     display:none;
+}
+ .poket_menu ul li:last-child a {
+     margin-right: 15px !important;
+}
+.poket_menu > ul > li.current > a, .poket_menu > ul > li:hover > a, .creative_header_menu > ul > li:hover > a {
+    color: #c94d2f;
+    background-color: transparent;
+}
+ .poket_menu > ul > li:hover > a:before, .poket_menu > ul > li.current > a:before {
+     opacity: 1;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+
+ .transprent-menu .poket_nav_area {
+     left: 0;
+     right: 0;
+     top: 0;
+     z-index: 9999;
+     background-color: transparent;
+     padding: 0;
+     transition: .5s;
+     position: absolute;
+}
+.poket_nav_area.postfix {
+    background: #fff;
+    transition: .3s;
+    box-shadow: 0 0 30px 0 rgb(0 0 0 / 10%);
+}
+ .search_popup_button, .tx_mmenu_together{
+     align-items: center;
+     display: flex;
+     justify-content: flex-end;
+}
+ .tx_mmenu_together .donate-btn-header {
+     padding: 0;
+}
+ .prefix .main_menu_header_address_text h3, .prefix .main_menu_header_address_text h4 a, .prefix .main_menu_header_icon i {
+     color: #fff;
+}
+/* poket 8 menu color */
+.heading_style_4 .poket_menu > ul > li > a {
+    color: #fff;
+}
+.heading_style_4 .main-search-menu .em-header-quearys .em-quearys-menu i {
+    color: #fff;
+}
+
+/* sub menu style */
+.poket_menu ul .sub-menu {
+    position: absolute;
+    left: 0;
+    top: 130%;
+    width: 240px;
+    text-align: left;
+    background: #fff;
+    margin: 0;
+    padding: 15px 8px 8px 25px;
+    z-index: 9999;
+    box-shadow: 0 0 30px rgb(0 0 0 / 9%);
+    transition: .2s;
+    opacity: 0;
+    visibility: hidden;
+}
+ .poket_menu ul li:hover > .sub-menu {
+     transition: .5s;
+     opacity: 1;
+     visibility: visible;
+     top: 100%;
+     z-index: 9;
+}
+ .poket_menu ul .sub-menu li {
+     position: relative;
+	 transition:.5s;
+}
+.poket_menu ul .sub-menu li a {
+    display: block;
+    margin: 0;
+    margin-bottom: 6px;
+    letter-spacing: normal;
+    font-size: 17px;
+    font-weight: 700;
+    transition: .5s;
+    color: #272727;
+    visibility: inherit !important;
+    padding: 4px 0px;
+    font-family: Rajdhani,sans-serif;
+}
+ .poket_menu ul .sub-menu li:hover > a, .poket_menu ul .sub-menu .sub-menu li:hover > a, .poket_menu ul .sub-menu .sub-menu .sub-menu li:hover > a, .poket_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
+     color: #14b1bb;
+}
+.poket_menu ul .sub-menu li:hover {
+    margin-left: 16px;
+}
+.poket_menu ul .sub-menu li:before {
+    left: -18px;
+}
+.poket_menu ul .sub-menu li:hover:before{
+	opacity:1;
+}
+
+.poket_menu ul .sub-menu li:before {
+    opacity: 0;
+    -webkit-transition: .1s;
+    transition: .1s;
+    position: absolute;
+    top: 50%;
+    content: "//";
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.poket_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a, .poket_menu ul .sub-menu .sub-menu .sub-menu li:hover>a, .poket_menu ul .sub-menu .sub-menu li:hover>a, .poket_menu ul .sub-menu li:hover:before, .poket_menu ul .sub-menu li:hover>a {
+    color: #c94d2f;
+}
+/* sub menu 2 */
+.poket_menu ul .sub-menu .sub-menu {
+    left: 100%;
+    top: 130%;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    visibility: hidden;
+}
+ .poket_menu ul .sub-menu li:hover > .sub-menu {
+     opacity: 1;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+     visibility: visible;
+     top: 0%;
+}
+/* sub menu 3 */
+ .poket_menu ul .sub-menu .sub-menu li {
+     position: relative;
+}
+ .poket_menu ul .sub-menu .sub-menu .sub-menu {
+     right: 100%;
+     left: auto;
+     top: 130%;
+     opacity: 0;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+     visibility: hidden;
+}
+ .poket_menu ul .sub-menu .sub-menu li:hover > .sub-menu {
+     opacity: 1;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+     visibility: visible;
+     top: 0%;
+}
+/* sub menu 4 */
+ .poket_menu ul .sub-menu .sub-menu .sub-menu li {
+     position: relative;
+}
+ .poket_menu ul .sub-menu .sub-menu .sub-menu li:hover > .sub-menu {
+     opacity: 1;
+     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+     visibility: visible;
+     top: 0%;
+}
+
+/* has menu icon */
+.poket-main-menu .menu-item-has-children > a:after {
+    margin-left: 8px;
+    content: "\f107";
+    font-family: FontAwesome !important;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    font-size: 13px;
+    opacity: .5;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    font-weight: 600;
+}
+ .poket-main-menu .menu-item-has-children .menu-item-has-children> a:after {
+     margin-left: 8px;
+     content: "\f107";
+}
+
+/* quearys area css */
+.poket_menu.main-search-menu > .em-header-quearys, .em-quearys-top.msin-menu-search {
+    display: inline-block;
+}
+.em-top-quearys-area {
+    position: relative;
+}
+.poket_menu div.em-header-quearys {
+    text-align: center;
+}
+
+
+
+.em-quearys-inner {
+    visibility: hidden;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: -150%;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0);
+    z-index: 10000;
+    -webkit-transition: all 0s 0s cubic-bezier(0.32, 0, 0, 1), background .3s 0s cubic-bezier(0.32, 0, 0, 1), -webkit-transform .3s .15s cubic-bezier(0.32, 0, 0, 1);
+    transition: all 0s 0s cubic-bezier(0.32, 0, 0, 1), background .3s 0s cubic-bezier(0.32, 0, 0, 1), -webkit-transform .3s .15s cubic-bezier(0.32, 0, 0, 1);
+    transition: all 0s 0s cubic-bezier(0.32, 0, 0, 1), transform .3s .15s cubic-bezier(0.32, 0, 0, 1), background .3s 0s cubic-bezier(0.32, 0, 0, 1);
+    transition: all 0s 0s cubic-bezier(0.32, 0, 0, 1), transform .3s .15s cubic-bezier(0.32, 0, 0, 1), background .3s 0s cubic-bezier(0.32, 0, 0, 1), -webkit-transform .3s .15s cubic-bezier(0.32, 0, 0, 1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    visibility: hidden;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    left: -150%;
+    background: rgba(0, 0, 0, 0);
+}
+.em-s-open {
+    visibility: visible;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    left: 0;
+    background: #000000e6 !important;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.em-quearys-form {
+    width: 100%;
+    max-width: 895px;
+    margin: auto;
+    padding: 30px 0;
+}
+.top-form-control {
+    position: relative;
+}
+.top-form-control input {
+    background: transparent;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 500;
+    height: 100px;
+    padding: 0 40px 0 15px;
+    width: 100%;
+    border: none;
+    -webkit-transition: 1s;
+    -webkit-transition: .5s;
+    transition: .5s;
+    border-bottom: 3px solid #fff;
+}
+.top-form-control input::placeholder{
+	color:#fff;
+}
+textarea, input {
+    outline: none;
+}
+.top-form-control button.top-quearys-style {
+    position: absolute;
+    right: 6px;
+    top: 50%;
+    background: transparent;
+    font-size: 45px;
+    border: none;
+    color: #fff;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.main-search-menu .em-header-quearys .em-quearys-menu i {
+    background: 0;
+    height: auto!important;
+    width: auto!important;
+    line-height: inherit!important;
+    font-size: 20px;
+    margin-left: 15px;
+    color: #030925;
+    cursor: pointer;
+}
+.mrt10{
+	margin-top:10px;
+}
+.em-quearys-menu i {
+    background: #c94d2f;
+    border-radius: 50px;
+    display: inline-block;
+    text-align: center;
+    height: 36px;
+    width: 36px;
+    line-height: 36px;
+    font-size: 17px;
+    color: #fff;
+}
+.main_menu_address_a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.main_menu_address_a::before {
+    background: #fbfbfb40;
+}
+.main_menu_address_a:before {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 107px;
+    left: 0;
+}
+.main_menu_header_icon {
+    margin-left: 25px;
+    margin-right: 10px;
+}
+.main_menu_header_icon i {
+    color: #14b1bb;
+	font-size: 30px;
+}
+.main_menu_header_address_text h3, .main_menu_header_address_text h4 a {
+    margin: 0;
+    font-weight: 600;
+	font-size: 18px;
+	
+}
+.main_menu_header_address_text h3{
+	color: #14b1bb;
+}
+.main_menu_header_address_text h4 {
+    margin-bottom: 0;
+    color: #030925;
+}
+
+/* mobile-menu  */
+.mobile-menu {
+    display: none !important;
+}
+.mobile_logo_area {
+    display: none !important;
+}
+.mobile_menu_logo.text-center {
+    padding: 20px 0;
+}
+ .mean-container .mean-bar {
+     padding: 0;
+}
+ .main_menu_div {
+     position: relative;
+}
+.mean-container .mean-bar {
+    float: none;
+    background: #c94d2f;
+    overflow: hidden;
+}
+/* menu button */
+a.dtbtn {
+    border: none;
+    display: block;
+    font-size: 16px;
+    margin-left: 20px;
+    font-weight: 700;
+    border-radius: 0;
+    padding: 13px 25px;
+    background: #c94d2f;
+    color: #fff;
+    font-family: 'Rajdhani', sans-serif;
+}
+ a.dtbtn:hover {
+    background: #042e38;
+}
+ /* End Menu Area CSS */
+/* ===== 3. Slider Area CSS ===== */
+.witr_ds_content_area{
+    position: relative;
+}
+.witr_slick_height {
+    height: 793px;
+}
+ .witr_ds_content {
+    height: 793px;
+    background-size: cover;
+    background-position: center center;
+    overflow: hidden;
+}
+.witr_ds_content:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    content: "";
+    z-index: -1;
+}
+.witr_ds_content_inner {
+    position: relative;
+    top: 49%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.witr_slick_content h2 {
+    color: #fff;
+    letter-spacing: 3.3px;
+}
+.text-left .witr_ds_content_inner h1, .text-left .witr_ds_content_inner h2, .text-left .witr_ds_content_inner h3, .text-left .witr_slicks_title h4 {
+    width: 60%;
+    margin: 0 auto 10px 0;
+}
+ .witr_containers {
+    margin: auto;
+    width: 63%; 
+}
+.witr_ds_content_inner h2, .witr_ds_content_inner h3 {
+    font-size: 60px;
+    line-height: 1.4;
+    color: #fff;
+}
+.witr_ds_content_inner p {
+    font-weight: 500;
+    font-size: 16px;
+    width: 48%;
+    margin: 34px auto 15px 0;
+    color: #fff;
+}
+.witr_swiper_area {
+    overflow: hidden;
+    position: relative;
+}
+.witr_swiper_height {
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+    height: 938px;
+}
+.text-left .witr_swiper_content h1, .text-left .witr_swiper_content h2, .text-left .witr_swiper_content h3, .text-left .witr_swipers_title h4, .text-right .witr_swiper_content h1, .text-right .witr_swiper_content h2, .text-right .witr_swiper_content h3, .text-right .witr_swipers_title h4 {
+    width: 52%;
+}
+.witr_swiper_content h1 {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+}
+.witr_swiper_content h2, .witr_swiper_content h3 {
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0 auto 3px 0;
+}
+.witr_swiper_content h2 {
+    padding: 25px 0px 20px 0px;
+}
+.text-left .witr_swiper_content p {
+    margin: 16px auto 15px 0;
+    color: #191A1A;
+    font-size: 17px;
+    font-weight: 400;
+    width: 46%;
+    padding: 0px 0px 10px 0px;
+}
+.witr_swiper_content {
+    position: relative;
+    top: 46%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+.witr_sw_text_area {
+    margin: auto;
+    width: 63%;
+    height: 100%;
+}
+.swiper-scrollbar {
+    border-radius: 10px;
+    position: relative;
+    background: 0;
+}
+/* button css */
+.witr_btn {
+    border-radius: 0;
+    display: inline-block;
+    font-size: 16px;
+    padding: 18px 40px;
+    text-align: center;
+    position: relative;
+    margin-right: 15px;
+    z-index: 2;
+    transition: 1s;
+    background: #c94d2f;
+    color: #fff;
+    font-weight:700;
+    font-family: 'Rajdhani', sans-serif;
+}
+.witr_btn:hover {
+    background: #000;
+    color: #fff;
+}
+.witr_btn.active {
+    color: #191A1A;
+    border-style: solid;
+    border-color: #191A1A;
+    background: transparent;
+    border-width: 1.5px;
+}
+.witr_btn.active:hover {
+    color: #fff;
+    background-color: #c94d2f;
+    border-color: #c94d2f;
+}
+.slider_btn {
+    margin-top: 40px;
+}
+.swiper-container-horizontal>.swiper-pagination-progressbar, .swiper-container-vertical>.swiper-pagination-progressbar.swiper-pagination-progressbar-opposite {
+    width: 100%;
+    height: 0; 
+    left: 0;
+    top: 0;
+}
+.swiper-button-next, .swiper-button-prev {
+    position: absolute;
+    top: 50%;
+    width: 27px;
+    height: 44px;
+    margin-top: -22px;
+    z-index: 10;
+    cursor: pointer;
+    -webkit-background-size: 27px 44px;
+    background-size: 27px 44px;
+    background: no-repeat 50%;
+    color: #C94D2F;
+    transition: .5s;
+}
+.swiper-button-next:after, .swiper-button-prev:after {
+    font-size: 30px;
+}
+.swiper-button-next:hover, .swiper-button-prev:hover {
+    padding: 30px;
+    background: #C94D2F;
+}
+.swiper-button-next:hover, .swiper-button-prev:hover, .witr_ds_content_inner h1 span, .witr_ds_content_inner h2 span, .witr_ds_content_inner h3 span {
+    color: #fff;
+}
+/* ===== 4. Feature Area CSS ===== */
+.psychology_feature_area {
+    margin-top: -130px;
+    margin-bottom: 0px;
+    z-index: 1;
+    position: relative;
+}
+.service-item{
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.05);
+    background-color: #FFFFFF;
+	padding: 50px 20px 45px 40px;
+	margin-bottom:20px;
+}
+.service-item h3 {
+    padding: 25px 0px 10px 0px;
+}
+.service-item p {
+    padding: 0px 0px 10px 0px;
+}
+.service-btn>a {
+    color: #c94d2f;
+	border-radius: 0px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Rajdhani', sans-serif;
+	border-style: none;
+    padding: 0px 0px 0px 0px;
+}
+.middle_service{
+	background:#C94D2F;
+}
+.middle_service h3, .middle_service h3 a{
+    color:#fff;
+}
+.middle_service p{
+	color:#fff;
+}
+.middle_service .service-btn>a{
+	color:#fff;
+}
+.middle_service h3:hover, .middle_service h3 a:hover {
+    color: #000000;
+}
+.middle_service .service-btn>a:hover{
+	color:#000000;
+}
+.service_page_feature_area {
+    margin-top: 0;
+    padding: 120px 0 100px;
+}
+
+
+
+
+/* ===== 12. Brand Area CSS ===== */
+.psychology_brand_area {
+    padding: 65px 0px 80px 0px;
+    background: #c94d2f;
+}
+.slide_items {
+    text-align: center;
+}
+/* ===== 5. About Area CSS ===== */
+.psychology_about_area {
+    padding: 120px 0 100px;
+}
+.about_image_inner .single_image {
+    margin-bottom: 20px;
+}
+.about_content_inner {
+    padding: 0 0 0 25px;
+}
+.about_content_inner .witr_section_title {
+    margin-bottom: 40px;
+}
+.about_list_inner {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 73px;
+}
+.departmentList {
+    position: relative;
+    border-radius: 10px;
+    background-size: cover;
+    text-align: left;
+    padding: 0;
+}
+.departmentList ul li a, .departmentList ul li span {
+    font-family: "Rajdhani", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 8px 7px;
+}
+.departmentList ul li a, .departmentList ul li span {
+    display: block;
+    margin-bottom: 0;
+}
+.departmentList ul li a {
+    color: #272727;
+}
+.departmentList ul li a i, .departmentList ul li span i {
+    color: #000;
+    background-color: #f5f5f5;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+.departmentList ul li a i, .departmentList ul li span i {
+    display: inline-block;
+}
+.departmentList ul li a i:hover, .departmentList ul li span i:hover {
+    color: #fff;
+    background-color: #c94d2f;
+}
+.departmentList ul li a:hover {
+    color: #c94d2f;
+}
+.about_content_inner  .witr_btn {
+    margin-top: 40px;
+}
+
+.about_service_inner .all_color_service {
+    padding: 30px 20px 13px 10px;
+    margin: 0px 20px 0px 120px;
+    box-shadow: 0px 0px 54px 0px rgb(0 0 0 / 4%);
+    background-color: #FFFFFF;
+	transition: .5s;
+}
+.about_service_inner .wirt_detail_texti {
+    padding: 15px 30px 10px;
+    text-align: left;
+    background-color: #FFFFFF;
+}
+.about_service_inner .wirt_detail_icon {
+    float: left;
+    margin-right: 20px;
+}
+.about_service_inner .witr_service_11 h3, .about_service_inner .witr_service_11 h3 a {
+    color: #191A1A;
+    font-size: 22px;
+}
+.about_service_inner .witr_service_11 h2, .about_service_inner .witr_service_11 h2 a {
+    color: #C94D2F;
+    font-family: "Rubik", Sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+}
+.about_service_inner .wirt_detail_content {
+    padding: 0px 20px 0px 30px;
+}
+.about_service_inner {
+    margin-top: -184px;
+    margin-bottom: 0px;
+    position: relative;
+}
+/* ===== 6. Serivce Area CSS ===== */
+.psychology_service_area {
+    background-image: url(../../images/psychology/service-bg-img.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 112px 0px 200px 0px;
+    position: relative;
+}
+.psychology_service_area::before{
+	content:"";
+	height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+	background-color: #000000;
+    opacity: 0.88;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.psychology_service_area .witr_section_title_inner h3, .psychology_service_area .witr_section_title_inner h1 {
+    color: #fff;
+}
+.psychology_service_area .witr_section_title {
+    margin-bottom: 30px;
+}
+.witr_pslide5 .witr_single_pslide {
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 10%);
+    border-radius: 5px;
+    margin-bottom: 12px;
+}
+.witr_pslide5 .witr_single_pslide {
+    background: #fff;
+}
+.psychology_service_area .toggle_pslide {
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.witr_single_pslide {
+    position: relative;
+    overflow: hidden;
+}
+.witr_pslide5 .witr_pslide_image {
+    width: 100%;
+}
+.psychology_service_area .witr_pslide_image:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: .5s;
+    transition: .5s;
+    z-index: 1;
+}
+.psychology_service_area .witr_pslide_image::before {
+    opacity: 0.5;
+}
+.psychology_service_area .witr_pslide_image:before {
+    background: #222429;
+}
+.psychology_service_area .witr_pslide_image img {
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-transition: .5s;
+    transition: .5s;
+    width: 100%;
+}
+.psychology_service_area .witr_pslide_custom {
+    position: absolute;
+    bottom: -125px;
+    right: -15px;
+    z-index: 9;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.psychology_service_area .witr_pslide_custom a span {
+    width: 110px;
+    height: 110px;
+    line-height: 90px;
+    text-align: center;
+    display: inline-block;
+    font-size: 40px;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.psychology_service_area .witr_pslide_custom a span {
+    background: #c94d2f;
+}
+.psychology_service_area .witr_pslide_custom a span {
+    color: #fff;
+}
+.psychology_service_area .witr_pslide5 .witr_content_pslide_text {
+    padding: 0 15px 0 15px;
+    width: 100%;
+}
+.psychology_service_area .witr_content_pslide_text h3 {
+    margin-bottom: 0;
+}
+.psychology_service_area .witr_content_pslide_text p {
+    margin-bottom: 4px;
+    padding: 15px 0px 15px 0px;
+}
+.psychology_service_area .witr_pslide_btnb a {
+    color: #C94D2F;
+    font-family: "Rajdhani", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    display:inline-block
+}
+.witr_single_pslide:hover .witr_pslide_image img, .witr_single_pslide:hover .witr_pslide_image:before {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.witr_single_pslide:hover .witr_pslide_custom {
+    bottom: -30px;
+}
+.witr_pslide5 .witr_pslide_image {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.witr_pslide_custom a span:hover {
+    background: #000;
+}
+.witr_pslide_btnb a:hover {
+    color: #000000;
+}
+.psychology_service_area .slick-dots li button {
+    width: 30px;
+    height: 12px;
+    background: #fff;
+}
+.psychology_service_area .slick-dots {
+    bottom: -82px;
+}
+/* ===== 7. Vision Area CSS ===== */
+.psychology_vision_area {
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #F2F3F5;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 120px 0px 90px 0px;
+}
+.vision_left_inner .witr_section_title_inner h3 {
+    font-size: 70px;
+    line-height: 88px;
+}
+.vision_witr_inner .em-service2.sleft.all_color_service {
+    margin-bottom: 36px;
+}
+.vision_middle_inner img {
+    margin-bottom: 30px;
+}
+.vision_witr_inner {
+    margin-top: 30px;
+}
+.witr_single_socials ul li a i {
+    color: #000000;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #F2F3F5;
+    margin: 0px 0px 0px 10px;
+	display:inline-block;
+	font-size:16px;
+	transition:.5s;
+}
+.witr_single_socials ul li a i:hover {
+    color: #FFFFFF;
+    background-color: #C94D2F;
+    transform: rotate(0deg);
+}
+/* ===== 8. Team Area CSS ===== */
+.psychology_team_area {
+    padding: 115px 0 105px;
+}
+.psychology_team_area .witr_section_title {
+    margin-bottom: 45px;
+}
+.em-team {
+    text-align: center;
+    position: relative;
+    transition: .5s;
+    margin-bottom: 20px;
+}
+.em-team-one {
+    position: relative;
+    padding-bottom: 55px;
+}
+.em-team-content-waraper {
+    bottom: -35px;
+    left: 0;
+    margin: 0 0 30px;
+    padding: 30px 30px 0;
+    position: absolute;
+    right: 0;
+    box-shadow: 0 0 65px 0 rgb(0,0,0,.08);
+    -webkit-transition: all .3s ease 0s;
+    transition: all .3s ease 0s;
+    text-align: center;
+}
+.em-team-content-socials a, .em-team-content-waraper, .team-part .witr_team_sec_3 .team-social {
+    background: #fff;
+}
+.em-content-title h5 {
+    font-size: 23px;
+    margin-bottom: 0;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.em-content-subtitle {
+    font-size: 16px;
+    margin: 5px 0 -27px;
+    text-transform: capitalize;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.em-team span {
+    color: #c94d2f;
+}
+.em-team-content-socials-inner {
+    opacity: 0;
+}
+.em-team-content-socials {
+    position: relative;
+    transition: .5s;
+}
+.em-team-content-socials a {
+    border-radius: 0;
+    display: inline-block;
+    height: 35px;
+    line-height: 35px;
+    margin: 2px 3px 0;
+    text-align: center;
+    width: 35px;
+    background: #fff;
+}
+.em-team-content-socials a, .em-team-content-waraper, .team-part .witr_team_sec_3 .team-social {
+    background: #fff;
+}
+.em-team-content-socials a {
+    color: #c94d2f;
+}
+.em-team:hover .em-team-content-waraper {
+    bottom: 0;
+    padding: 30px;
+}
+.em-team:hover .em-team-content-waraper {
+    background: #fff;
+}
+.em-team-content-socials a:hover, .em-team:hover .em-content-subtitle, .em-team:hover .em-content-title h5, .em-team:hover .em-content-title h5 a, .team-style-2 .em-content-desc-inner, .team-style-2 .em-content-socials a, .team-style-2 .em-content-subtitle, .team-style-2 .em-content-title h5 {
+    color: #05313c;
+}
+.em-team:hover .em-content-subtitle {
+    margin: 5px 0 10px;
+}
+.em-team:hover .em-team-content-socials-inner {
+    opacity: 1;
+}
+.em-team-content-socials a:hover {
+    background: #000000;
+    color: #fff;
+}
+.service_page_team_area {
+    padding: 0px 0 115px;
+}
+.team_page_team_area {
+    background: #f9f9f9;
+}
+.em-team:hover .em-team-content-waraper {
+    background: #c94d2fe6;
+}
+.em-team-content-socials a:hover, .em-team:hover .em-content-subtitle, .em-team:hover .em-content-title h5, .em-team:hover .em-content-title h5 a, .team-style-2 .em-content-desc-inner, .team-style-2 .em-content-socials a, .team-style-2 .em-content-subtitle, .team-style-2 .em-content-title h5, .em-team:hover span {
+    color: #fff;
+}
+.about_page_team_area {
+    background: #FDFDFD;
+}
+/* ===== 9. Call Action Area CSS ===== */
+.call_action_area .em-service2 {
+    padding: 0;
+    transition: .5s;
+    background: 0;
+    box-shadow: none;
+    margin-bottom: 13px;
+}
+.call_action_inner {
+    background-color: #fff;
+    box-shadow: 0px 0px 54px 0px rgb(0 0 0 / 4%);
+    transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+    padding: 60px 45px 42px 65px;
+    margin: 0;
+    position: relative;
+    z-index: 999;
+}
+.call_action_area .em-service2 .em-service-icon i {
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 80px;
+    font-size: 35px;
+    -webkit-transition: all .5s ease 0s;
+    transition: all .5s ease 0s;
+    margin-right: 20px;
+}
+.call_action_area .all_icon_color i {
+    color: #c94d2f;
+    font-size: 35px;
+}
+.call_action_area .em-service2 .em-service-icon i, .call_action_area .witr_sstyle_9:before {
+    background: #c94d2f1A;
+}
+.call_action_area .em-service-icon {
+    margin-right: 0;
+    margin-top: 10px;
+}
+.call_action_area .em-service-title h3 {
+    margin: 0 0 8px;
+    padding: 20px 0 0;
+}
+.call_action_area .all_color_service h3, .call_action_area .all_color_service h3 a {
+    color: #C94D2F;
+}
+.call_action_area .witr_button_area {
+    text-align: right;
+    margin-top: 15px;
+}
+.call_action_area .witr_btn {
+    transition: 1s;
+    background: #c94d2f;
+    font-size: 16px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000000;
+    background-color: #02010100;
+    color: #000000;
+    font-family: 'Rajdhani', sans-serif;
+}
+.call_action_area .witr_btn:hover{
+	background:#c94d2f;
+	border-color:#c94d2f;
+	color:#fff;
+}
+.witr_bbtn {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 16px 30px;
+    text-align: center;
+    position: relative;
+    margin-right: 20px;
+    z-index: 2;
+    transition: 1s;
+    border: 2px solid #c94d2f;
+    background-color: #c94d2f;
+    color: #fff;
+    font-family: 'Rajdhani', sans-serif;
+}
+.witr_bbtn:hover{
+	background:#000;
+	border-color:#000;
+	color:#fff;
+}
+.call_action_area .witr_s_flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+/* ===== 10. Skill Area CSS ===== */
+.psychology_skill_area {
+    margin-top: -105px;
+    margin-bottom: 0px;
+    position: relative;
+}
+.psychology_skill_area .witr_section_title {
+    margin-bottom: 40px;
+}
+.witr_single_progress {
+    overflow: hidden;
+    margin-bottom: 22px;
+}
+.witr_title2 .witr_label {
+    color: #fff;
+    font-size: 17px;
+    margin-bottom: -5px;
+    display: inline-block;
+    font-weight: 700;
+}
+.progress {
+    height: 4px;
+    border-radius: 0;
+    margin-top: 5px;
+    background-color: #303131;
+}
+.witr_progress-style2.progress {
+    box-shadow: none;
+    overflow: visible;
+}
+.progress-bar {
+    background: #fff;
+    overflow: inherit;
+}
+.witr_progress-style2 .progress-bar {
+    position: relative;
+    text-align: left;
+    line-height: 4px;
+    box-shadow: none;
+}
+.progress-bar {
+    border-radius: 30px;
+}
+.witr_progress-style2 .witr_percent {
+    position: absolute;
+    right: 0;
+    font-weight: 700;
+    font-size: 16px;
+    top: -19px;
+}
+.witr_progress-style2 .witr_percent {
+    color: #fff;
+}
+.psychology_skill_area .witr_btn {
+    font-size: 16px;
+    padding: 17px 48px;
+    margin: 40px 0 0;
+}
+.skill_witr_inner {
+    background-image: url(../../images/psychology/skill-img1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.skill_left_inner{
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 220px 30px 120px 380px;
+    background-color: #000000;
+}
+.skill_left_inner .witr_section_title_inner h1, .skill_left_inner .witr_section_title_inner h2, .skill_left_inner .witr_section_title_inner h3 {
+    color:#fff;
+}
+.skill_left_inner .witr_section_title_inner p {
+    color:#fff;
+}
+/* ===== 11. Pricing Area CSS ===== */
+.pricing_plan_area {
+    padding: 115px 0 100px;
+}
+.pricing_plan_area .witr_section_title {
+    margin-bottom: 50px;
+}
+.pricing_area {
+    box-shadow: 0px 0px 54px 0px rgba(0,0,0,.04);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.pricing-part {
+    position: relative;
+    overflow: hidden;
+	text-align:center;
+}
+.pricing-part h4 {
+    font-size: 30px;
+    display: block;
+    color: #fff;
+    background-color: #c94d2f;
+    padding: 25px 0 20px;
+}
+.all_pricing_color h2, .all_pricing_color h3, .all_pricing_color h4, .all_pricing_color h5 {
+    margin: 0;
+}
+.pricing-part h5 {
+    font-size: 40px;
+    padding: 40px 0 0;
+}
+.pricing-part span {
+    font-size: 40px;
+    margin-right: 5px;
+}
+.witri_texti_list {
+    margin-top: 25px;
+}
+.pricing-part ul {
+    padding: 0 30px;
+}
+.witri_texti_list ul li {
+    list-style: none;
+    font-size: 16px;
+    margin-bottom: 17px;
+}
+.all_pricing_color li, .all_pricing_color ol, .all_pricing_color ul {
+    margin: 0;
+}
+.witri_texti_list ul li i {
+    color: #c94d2f;
+    margin: 0 7px 0 20px;
+}
+.pricing_style_3 .witr_btnp_color {
+    padding: 0;
+    padding-top: 37px;
+}
+.witr_btnp_color a.btn {
+    font-family: "Rajdhani",Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border-style: solid;
+    margin: 0 90px 50px;
+	display: block;
+    border-radius: 0;
+	background: #c94d2f;
+	color:#fff;
+	padding: 17px 30px;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.pricing-part a.btn {
+    border: 1px solid #c94d2f;
+}
+.pricing-part a.btn:hover {
+    background: 0 0;
+	color: #c94d2f;
+}
+ .pricing-part ul {
+    text-align: left;
+}
+.service_page_pricing_area {
+    background: #FDFDFD;
+}
+/* ===== 12. Faq Area CSS ===== */
+.psychology_faq_area {
+}
+.psychology_faq_area .witr_section_title {
+    margin-bottom: 33px;
+}
+.faq_content_inner {
+    padding: 0px 355px 0px 0px;
+}
+.accordion_area .card-2 {
+    margin-bottom: 30px;
+    border: 1px solid #ddd;
+}
+.accordion_area .card-header.witr_ac_card {
+    background: 0 0!important;
+    padding: 0;
+    border-bottom: 0;
+    text-align: left;
+}
+.card-header:first-child {
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
+.witr_ac_style {
+    font-size: 20px;
+    font-weight: 700;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 11px 15px;
+    -webkit-transition: .5s;
+    transition: .5s;
+    color: #222429;
+    font-family: "Rajdhani", Sans-serif;
+}
+.witr_ac_style:before {
+    position: absolute;
+    content: '\ea99';
+    right: 10px;
+    font-family: IcoFont!important;
+    font-weight: 400;
+    background: #f9edea;
+    color: #c94d2f;
+    padding: 3px 10px 3px 10px;
+}
+.active .witr_ac_style:before {
+    content: '\eaa1';
+}
+.accordion_area .card-2 p {
+    padding: 10px 15px 0;
+}
+.active .witr_ac_style, .banner-content a i, .banner-content button, .banner-content.content-4 ul li a:hover i, .butn:before, .witr_about_btn a, .witr_ac_style:focus, .witr_ac_style:hover {
+    background: #c94d2f;
+}
+.active .witr_ac_style, .witr_ac_style:focus, .witr_ac_style:hover {
+    color: #fff;
+}
+
+
+
+.psychology_faq_area3 {
+    padding: 100px 0px 85px 0px;
+}
+.psychology_faq_area3 .witr_section_title_inner p {
+    margin-top: 0;
+}
+.psychology_faq_area3 .witr_section_title {
+    margin-bottom: 30px;
+}
+.psychology_faq_area3 .accordion_area .card-2 {
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+}
+.psychology_faq_area3 .witr_ac_style {
+    font-size: 17px;
+    font-weight: 600;
+    font-family: Rubik,sans-serif;
+}
+/* ===== Faq Area CSS ===== */
+.faq_area2 {
+    background: #F1F1F126;
+    padding: 0 0 80px;
+}
+.faq_area2 .witr_ac_style:before {
+    background: transparent;
+}
+.faq_area2 .active .witr_ac_style, .faq_area2 .witr_ac_style:focus, .faq_area2 .witr_ac_style:hover {
+    color: #232323;
+}
+.faq_area2 .accordion_area .card-2 p {
+    padding: 14px 33px 15px 15px;
+}
+.accordion_area_02 .witr_ac_style {
+    padding: 10px 20px;
+}
+.accordion_area_02 .accordion_02_shadow {
+	border:none;
+    box-shadow: 0px 0px 20px 0px #dddddd80;
+	background:none;
+}
+.accordion_area_02 .card-header.witr_ac_card a:hover {
+    color: #232323;
+}
+.card.card-2.accordion_02_shadow {
+    border: 0 !important;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 7px -5px rgb(0 0 0 / 75%);
+}
+.writ_ac_style_02 {
+    margin-left: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    display: block;
+    background: none !important;
+    color: #232323;
+    font-family: Rubik,sans-serif;
+}
+.writ_ac_style_02:before {
+    position: absolute;
+    content: '\f067';
+    left: 20px;
+	margin-right:10px;
+    font-family: fontawesome !important;
+    font-weight: 200;
+}
+.active .writ_ac_style_02:before {
+    content: '\f068';
+}
+.card-header.witr_ac_card.border_bottom_0 {
+    background: #fff;
+    padding: 0px 10px;
+}
+.content_style p,
+.conent_style p {
+    padding-left: 18px;
+}
+.card.card-2.accordion_02_shadow {
+	border: 0 !important;
+    margin-bottom: 20px;
+	box-shadow: 1px 1px 7px -5px rgb(0 0 0 / 75%);
+}
+.faq_area2 .witr_ac_style2 {
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    padding: 11px 15px;
+    transition: .5s;
+    padding: 12px 20px 12px 20px;
+    color: #232323;
+	
+}
+.writ_ac_style_02:before {
+    font-weight: 500;
+    font-size: 17px;
+    color: #3a4268;
+    margin-top: 3px;
+}
+.faq_area2 .single_image img {
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.faq_area2 .active .witr_ac_style {
+    color: #232323;
+    background-color: #A4282800;
+}
+.faq_area2 .card-header.witr_ac_card a:hover {
+    color: #232323;
+}
+/* ===== 13. Project Area CSS ===== */
+.project_bg_area {
+    background: #000000;
+    padding: 115px 0px 40px 0px;
+}
+.project_bg_area .witr_section_title_inner h1, .project_bg_area .witr_section_title_inner h2, .project_bg_area .witr_section_title_inner h3 {
+    color:#fff;
+}
+.psychology_project_area {
+    padding: 44px 0 190px;
+}
+.psychology_project_area .witr_section_title {
+    margin-bottom: 35px;
+}
+.psychology_project_area .slick-dots {
+    bottom: -85px;
+}
+.witr_single_pslide {
+    position: relative;
+    overflow: hidden;
+}
+.witr_pslide_image {
+    overflow: hidden;
+    position: relative;
+}
+.witr_pslide_image:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: .5s;
+    transition: .5s;
+    z-index: 1;
+}
+.witr_pslide_image:before {
+    background: #222429;
+}
+.witr_pslide_image:before {
+    opacity: .5;
+}
+.witr_pslide_image img {
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-transition: .5s;
+    transition: .5s;
+    width: 100%;
+}
+.witr_content_pslide_text, .witr_pslide5 .witr_single_pslide {
+    padding: 30px 0px 30px 40px;
+}
+.witr_content_pslide_text, .witr_pslide5 .witr_single_pslide {
+    background-color: #fff;
+}
+.ps1 .witr_content_pslide_text {
+    position: absolute;
+    bottom: -100px;
+    left: 30px;
+    right: 30px;
+    -webkit-transition: .5s;
+    transition: .5s;
+    opacity: 0;
+    z-index: 2;
+    text-align: left;
+}
+.ps1 .witr_content_pslide_text h3 {
+    color: #282828;
+}
+.witr_content_pslide_text h3 {
+    margin-bottom: 0;
+}
+.all_pslides_color h3 a, .all_pslides_color h3 {
+    color: #282828;
+}
+.all_pslides_color h3 a:hover, .all_pslides_color h3:hover {
+    color: #c54a15;
+}
+.witr_content_pslide_text a {
+    display: inline-block;
+}
+.psychology_project_area .witr_content_pslide_text p {
+    margin-bottom: 4px;
+	color:#c54a15;
+}
+.witr_single_pslide:hover .witr_pslide_image img, .witr_single_pslide:hover .witr_pslide_image:before {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.ps1 .witr_single_pslide:hover .witr_content_pslide_text {
+    opacity: 1;
+    bottom: 30px;
+}
+/* ===== 14. Contact Area CSS ===== */
+.psychology_contact_area {
+    z-index: 999;
+    position: relative;
+}
+.contact_area {
+    padding: 0 0 120px;
+}
+.apartment_area {
+    position: relative;
+    background-size: cover;
+    padding: 60px 35px 60px;
+    border-radius: 10px;
+    text-align: left;
+}
+.apartment_text h1 {
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+.apartment_text h1, .counterdowns p, span.time-counts {
+    color: #c94d2f;
+}
+.apartment_text h2 {
+    margin-bottom: 40px;
+    font-size: 38px;
+}
+.apartment_area {
+    position: relative;
+    background-size: cover;
+    padding: 70px 0px 62px 60px;
+    border-radius: 10px;
+    text-align: left;
+}
+.witr_apartment_form input, .witr_apartment_form form select, textarea {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #DDDDDDCC;
+    padding: 0 0 0 30px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}
+.witr_apartment_form input:focus, .witr_apartment_form form select:focus, .twr_form_box textarea:focus{
+	border-color: #80bdff;
+}
+.witr_apartment_form form select, .witr_apartment_form input {
+    width: 100%;
+    height: 45px;
+    border-radius: 5px;
+    outline: 0;
+    margin-bottom: 23px;
+}
+.witr_apartment_form input, .witr_apartment_form textarea {
+    border: 1px solid #f1f1f1;
+}
+.witr_apartment_form form select, .witr_apartment_form input {
+    color: #888;
+}
+.twr_form_box  textarea {
+    height: 150px;
+    width: 100%;
+    padding: 20px 0 20px 30px;
+    color: #888;
+}
+.twr_form_box  textarea input{
+	color:#495057;
+}
+.witr_apartment_form .btn {
+    border: 0 none;
+    display: inline-block;
+    font-weight: 600;
+    padding: 15px 30px;
+    font-size: 16px;
+    background-color: #c94d2f;
+    border-radius: 0;
+    color: #fff;
+    margin-top: 20px;
+    transition: .5s;
+    width: 45%;
+    font-family: 'Rajdhani', sans-serif;
+}
+.witr_apartment_form .btn:hover {
+    background: #02101e;
+}
+.contact_inner {
+	background-image: url(../../images/psychology/contact-bg.png);
+    background-position: center center;
+    background-size: cover;
+    box-shadow: 0px 0px 54px 0px rgb(0 0 0 / 4%);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+/* ===== Contact Area CSS ===== */
+.contact_page_contact_area {
+    padding: 0 0 80px;
+}
+.contact_page_contact_area .apartment_area {
+    position: relative;
+    background-size: cover;
+    padding: 60px 35px 60px;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 0 30px 0 rgb(0 0 0 / 6%);
+    margin-bottom: 20px;
+}
+.contact_page_contact_area .witr_apartment_form input, .contact_page_contact_area .witr_apartment_form form select, .contact_page_contact_area textarea {
+    border-color: #DDDDDDCC;
+    background-color: #87494900;
+}
+.contact_page_contact_area .witr_apartment_form form select, .contact_page_contact_area .witr_apartment_form input {
+    padding: 30px 0px 30px 30px;
+}
+.contact_page_contact_area .witr_apartment_form .btn {
+    width: auto;
+}
+/* map area css */
+.map_inner_area iframe {
+    border: none;
+    width: 100%;
+    height: 650px;
+	margin-bottom:-8px;
+}
+/* ===== Contact Area CSS ===== */
+.contact_page_area {
+    padding: 100px 0 80px;
+}
+.contact_page_area .all_color_service {
+    padding: 50px 35px 60px 35px;
+}
+.contact_page_area .all_color_service, .service_top_image::after {
+    box-shadow: 0px 0px 30px 0px rgb(0 0 0 / 5%);
+    margin-bottom: 20px;
+    background: #fff;
+    border-radius: 0;
+}
+.contact_page_area .service_top_image {
+    position: relative;
+}
+.contact_page_area .service-item i {
+    font-size: 30px;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    line-height: 80px;
+    display: inline-block;
+    transition: .5s;
+    border-radius: 0;
+    color: #fff;
+    background: #c94d2f;
+}
+.contact_area .apartment_text h2 {
+    margin-bottom: 40px;
+    font-size: 38px;
+    color: #111;
+    padding-top: 0;
+}
+.contact_page_area .service-item h3 {
+    padding: 15px 0 12px;
+    color: #030925;
+}
+.contact_page_area .all_color_service:hover i, .contact_page_area .poly_text_box:hover .contact_page_area .service_icon_box::before {
+    background: #000;
+}
+.contact_page_area .text_box.all_icon_color p {
+    padding-bottom: 0px;
+    margin: 0px;
+    color: #030925;
+}
+/* ===== 11. Testimonial Area CSS ===== */
+.testimonial_area {
+    padding: 113px 0 95px;
+    position: relative;
+}
+.testimonial_area .witr_section_title_inner.text-center p {
+    width: 65%;
+    margin-right: auto;
+    margin-left: auto;
+    color: #fff;
+    padding: 0;
+}
+.testimonial_area .witr_section_title {
+    margin-bottom: 40px;
+}
+.em_single_testimonial {
+    -webkit-transition: all .5s ease 0s;
+    transition: all .5s ease 0s;
+    padding: 37px 30px 26px;
+    box-shadow: 0 0 10px 0 rgb(240 241 243);
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+.em_single_testimonial, .single_2p_testimonial, .testiCreCon, .testiCreCon:after, .witr_background_test, .witr_testi_main {
+    background: #fff;
+}
+.em_test_thumb {
+    float: left;
+    margin-right: 20px;
+}
+.witr_testi_itemt {
+    padding: 0 10px;
+}
+.test-part {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.em_test_thumb img {
+    border-radius: 50%;
+    width: 59px;
+}
+.em_test_thumb img {
+    display: initial!important;
+}
+.em_testi_title span {
+    display: block;
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.em_testi_content:after, .em_testi_content:before, .em_testi_title span, .execllent_star h3, .test_q_icon i, .title_and_sub h6 {
+    color: #c94d2f;
+}
+.em_testi_logo {
+    position: absolute;
+    right: 4%;
+    bottom: 55px;
+}
+.em_testi_content {
+    position: relative;
+    text-align: center;
+}
+.em_testi_text {
+    overflow: hidden;
+    padding-top: 15px;
+    float: left;
+    text-align: left;
+}
+.test-part {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.test-part ul li {
+    display: inline-block;
+    padding-top: 0;
+}
+.execllent_toggol {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.em_crating i.active {
+    color: #c94d2f;
+}
+.em_crating i {
+    font-size: 18px;
+}
+.execllent_star {
+    margin-left: 15px;
+}
+.execllent_star h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    font-style: italic;
+}
+.em_single_testimonial:hover {
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.13);
+}
+/* ===== Testimonial Area CSS ===== */
+.testimonial_area2 {
+    padding: 113px 0 100px;
+}
+.testimonial_area2 .witr_section_title {
+    margin-bottom: 20px;
+}
+.single_creativeItem {
+    text-align: center;
+}
+.testiCreCon {
+    position: relative;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 6%);
+    background: #fff;
+    border-radius: 5px;
+    padding: 50px 20px 50px;
+    margin-bottom: 35px;
+}
+.testiCreCon li {
+    font-size: 100px;
+    color: #dddddd4f;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.testiCreCon p {
+    position: relative;
+    margin: 0;
+    z-index: 1;
+}
+.box-size {
+    padding: 10px 15px;
+}
+.testiCreCon:after {
+    position: absolute;
+    content: '';
+    left: 50%;
+    bottom: -36px;
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    background: #fff;
+    transform: rotate(45deg) translateX(-50%);
+    z-index: -1;
+    box-shadow: 0 2px 29px 0 rgb(0 0 0 / 8%);
+}
+.post_t6 .em_test_thumb {
+    float: inherit;
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+.em_test_thumb img {
+    border-radius: 50%;
+    width: 59px;
+}
+.em_test_thumb img {
+    display: initial!important;
+}
+.testAuthor h6 {
+    margin-bottom: 0;
+}
+.testAuthor span {
+    font-size: 15px;
+}
+/* ===== 12. Doctor Profile Area CSS ===== */
+.doctor_profile_area {
+    padding: 100px 0 40px;
+}
+.profile_content_inner .witr_section_title_inner p {
+    margin-top: 0;
+}
+.profile_image_inner img {
+    margin-bottom: 20px;
+}
+.profile_area2 {
+    background: #FDFDFD;
+}
+.witr_text_widget_inner h2 {
+    margin: 0 0 16px;
+    font-size: 40px;
+}
+.profile_content_area {
+    padding: 50px 0 92px;
+}
+
+
+
+/* ===== 15. Video Area CSS ===== */
+.psychology_video_area {
+    background-image: url(../../images/psychology/video-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding: 135px 0;
+}
+.witr_all_color_v h3 {
+    color: #fff;
+    font-size: 40px;
+    padding: 0;
+    line-height: 1.1;
+}
+.video-overlay {
+    padding: 70px 0 50px;
+}
+.video-item a {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    font-size: 28px;
+    border-radius:5px;
+}
+.play-overlay a, .play-overlay a:before, .title_btn a, .title_in:after, .title_in:before, .video-item a, .video-item a:before, .witr_bar_inner {
+    background: #fff;
+}
+.video-item a:before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    top: 0;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation: witr_squares 1.5s ease-in-out infinite;
+    animation: witr_squares 1.5s ease-in-out infinite;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.tx_svd_icon, .tx_svd_icon i {
+    color: #fff;
+}
+.video-item i {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+.play-overlay i, .poket_slider_icon ul li a i, .video-item i, .witr_video_btn i, .witr_videos_title_text h3 {
+    color: #c94d2f;
+}
+@keyframes witr_squares{
+	0%{-webkit-transform:scale(1);transform:scale(1);opacity:0;-ms-filter: "progid:DXImageTransform.Mipsychologyosoft.Alpha(Opacity=0)"}
+	20%{-webkit-transform:scale(1.24);transform:scale(1.24);opacity:1;-ms-filter: "progid:DXImageTransform.Mipsychologyosoft.Alpha(Opacity=100)"}
+	100%{-webkit-transform:scale(2.1);transform:scale(2.1);opacity:0;-ms-filter: "progid:DXImageTransform.Mipsychologyosoft.Alpha(Opacity=0)"}
+}
+.video-item h3 {
+    font-size: 30px;
+    margin-top: 38px;
+}
+/* ===== Video Area CSS ===== */
+.witr_youtube_video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -99;
+}.witr_youtube_video iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+.video_page_area .witr_swiper_content h2, .video_page_area .witr_swiper_content p{
+	color:#fff;
+}
+/* ===== 15. Blog Area CSS ===== */
+.psychology_blog_area {
+    background: #FDF8F7;
+    margin-top: -230px;
+    margin-bottom: 0px;
+    padding: 335px 0px 85px 0px;
+}
+.psychology_blog_area .witr_section_title {
+    margin-bottom: 35px;
+}
+.busi_singleBlog {
+    -webkit-transition: .5s;
+    transition: .5s;
+    box-shadow: 0 5px 10px 0 rgba(50,65,141,.07);
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    margin-bottom: 20px;
+}
+.witr_sb_thumb {
+    overflow: hidden;
+    position: relative;
+}
+.witr_sb_thumb:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: .5s;
+    transition: .5s;
+    z-index: 1;
+}
+.witr_sb_thumb:before {
+    background: rgba(0,0,0,.5);
+}
+.witr_sb_thumb img {
+    width: 100%;
+    transition: .5s;
+}
+.all_blog_color, .all_color_service, .all_color_team, .all_color_testimonial, .all_feature_color, .all_service2_color {
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.witr_blog_area11 .witr_blog_con {
+    padding: 20px 15px 25px 25px;
+    margin-bottom: 0;
+}
+.witr_blog_area11 .witr_blog_con h2 {
+    margin: 5px 0 0;
+	color: #222429;
+}
+.witr_blog_con h2 a {
+    display: inline-block;
+}
+.witr_blog_con h2 a:hover{
+    color: #c94d2f;
+}
+.all_blog_color p {
+    padding: 15px 0px 5px;
+}
+.witr_blog_area11 .em-blog-content-area_adn {
+    padding: 0 10px 22px 20px;
+}
+.witr_blog_area11 .learn_btn {
+    padding: 5px 5px;
+    border-radius: 5px;
+    border-style: none;
+    margin: 0;
+    background: 0;
+    color: #c94d2f;
+    display: inline-block;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 700;
+}
+.busi_singleBlog:hover {
+    box-shadow: 0 0px 4px 0 rgba(0,0,0,.05);
+}
+.witr_blog_area11 .learn_btn:hover {
+    color: #000000;
+}
+.busi_singleBlog:hover .witr_sb_thumb img, .busi_singleBlog:hover .witr_sb_thumb:before {
+    transform: scale(1.2);
+}
+.witr_top_category ul li a {
+    padding: 14px 20px;
+    border-radius: 0;
+    margin: 0 10px 0 0;
+    display: inline-block;
+    background: #c94d2f;
+    color: #fff;
+}
+.psychology_blog_area .witr_top_category {
+    position: absolute;
+    z-index: 999;
+    bottom: 0;
+    left: 0;
+    top: auto;
+}
+/* ===== Blog Area CSS ===== */
+.blog_grid_area {
+    background: transparent;
+    padding: 95px 0px 80px 0px;
+    margin-top: 0;
+}
+.blog_grid_area .witr_top_category {
+    bottom: 20px;
+}
+.blog_grid_area .witr_top_category {
+    transform: scale(0);
+    transition: .5s;
+}
+.blog_grid_area .busi_singleBlog:hover .witr_top_category {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.blog_grid_area .slick-prev {
+    left: -65px;
+}
+.blog_grid_area .slick-next {
+    right: -65px;
+}
+/* =============== blog left sidebar css =============== */
+.witrfm_area {
+    position: relative;
+}
+/* side bar css */
+.witr-blog-side-area.blog_sidebar {
+    padding: 100px 0px 100px;
+    background: #f9f9f9;
+}
+.blog-left-side > div {
+    background-color: #fff;
+    margin-bottom: 30px;
+    padding: 15px;
+    box-shadow: 0 0 5px 0 rgba(148, 146, 245, 0.2);
+}
+.blog-left-side > div:last-child {
+    margin-bottom: 0;
+}
+.blog-left-side h2 {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.blog-left-side .content {
+    padding: 0;
+}
+.blog-left-side .push-bottom-large {
+    margin-bottom: 0;
+}
+.blog-left-side > div:last-child {
+    margin-bottom: 0;
+}
+.blog-left-side > aside:last-child {
+    margin-bottom: 0 !important;
+}
+.blog-left-side .nav .children li a:hover,
+.blog-left-side .sub-menu li a:hover {
+    background: 0 0;
+    color: #18c8ff;
+}
+.defaultsearch {
+    background: #f7f7f7;
+    position: relative;
+}
+.defaultsearch input {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 0 none;
+    height: 54px;
+    position: relative;
+    width: 100%;
+}
+.defaultsearch button {
+    background: transparent none repeat scroll 0 0;
+    border: 0 none;
+    color: #858585;
+    font-size: 18px;
+    padding: 1px 15px;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    cursor: pointer;
+    transform: translateY(-50%);
+}
+.defaultsearch input[type="text"] {
+    padding-left: 10px;
+}
+.blog-left-side .widget h2 {
+    border-bottom: 1px solid #e5e5e5;
+    bottom: -1px;
+    display: block;
+    line-height: 17px;
+    margin-bottom: 20px;
+    padding-bottom: 14px;
+    position: relative;
+    text-transform: capitalize;
+}
+.blog-left-side .widget h2::before {
+    background: #c94d2f none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 20px;
+    left: -15px;
+    position: absolute;
+    width: 2px;
+    top: -3px;
+}
+.footer-middle .widget h5 {
+    text-transform: capitalize;
+}
+.blog-left-side .widget ul {
+    list-style: none;
+}
+.blog-left-side .widget ul li {
+    margin: 0 0 5px;
+    padding-left: 20px;
+    position: relative;
+}
+.blog-left-side .widget ul li span {
+    font-weight: 300;
+}
+.blog-left-side .widget ul li:last-child {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.blog-left-side > .widget > ul > li {
+    margin: 0 0 10px;
+    padding-bottom: 10px;
+}
+.blog-left-side .widget > ul > li:not(:last-child) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+.blog-left-side .widget ul li a:hover,
+.blog-left-side .widget ul li:hover::before {
+    color: #c94d2f;
+}
+.blog-left-side .widget ul li::before {
+    content: "\f105";
+    font-family: FontAwesome;
+    font-size: 18px;
+    left: 0;
+    position: absolute;
+}
+.blog-left-side .widget select {
+    width: 100%;
+    height: 40px;
+    background: #fff;
+    border: 1px solid #ddd;
+    padding-left: 5px;
+}
+.widget .screen-reader-text {
+    display: none;
+}
+.textwidget select {
+    width: 100%;
+}
+#wp-calendar {
+    width: 100%;
+}
+.tagcloud a {
+    display: inline-block;
+    font-size: 14px !important;
+    margin: 0 8px 10px 0;
+    padding: 7px 15px;
+    text-align: center;
+    font-weight: 400;
+    border: 1px solid #ddd;
+    text-transform: capitalize;
+}
+.r-post-content h3 a:hover,
+.r-post-content h3:hover,
+.tagcloud a:hover,
+.widget_archive ul li a:hover,
+.widget_archive ul li:hover:before,
+.widget_categories ul li a:hover,
+.widget_categories ul li:hover:before {
+    color: #c94d2f;
+}
+.tagcloud a:hover {
+    background: #c94d2f;
+    color: #fff;
+}
+#wp-calendar caption {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    text-align: left;
+    text-transform: uppercase;
+}
+#wp-calendar {
+    font-size: 13px;
+}
+#wp-calendar {
+    border: 0 solid #e5e5e5;
+    margin-bottom: 20px;
+    overflow: auto;
+    vertical-align: top;
+    width: 100%;
+    margin: 0;
+}
+table#wp-calendar td {
+    border: 1px solid #e5e5e5;
+    padding: 5px 10px;
+    text-align: center;
+    vertical-align: top;
+    font-size: 14px;
+}
+#wp-calendar td,
+#wp-calendar th {
+    padding: 8px;
+}
+table#wp-calendar th {
+    border: 1px solid #e5e5e5;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 5px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+table#wp-calendar td#today {
+    color: #fff;
+    background-color: #c94d2f;
+}
+table#wp-calendar td#today a {
+    color: #fff;
+}
+.textwidget img {
+    margin-bottom: 15px;
+}
+.textwidget p {
+    margin-bottom: 0.5rem;
+}
+.psychology-blog-thumb img {
+    width: 100%;
+}
+.witr-blog-side-area .imagess_area .slick-slide img {
+    display: inline-block;
+    margin: auto;
+    width: 100%;
+}
+/* end sidebar css */
+/* witr-blog-2side-area */
+.witr-blog-side-area.witr-blog-2side {
+    padding: 100px 0px 70px;
+    background: #f9f9f9;
+}
+.psychology-single-blog {
+    margin-bottom: 30px;
+    overflow: hidden;
+    -webkit-transition: all .3s ease-in-out 0s;
+    transition: all .3s ease-in-out 0s;
+}
+.psychology-blog-thumb {
+    overflow: hidden;
+}
+.psychology-blog-thumb a {
+    display: block;
+	position: relative;
+}
+.psychology-blog-thumb a:before {
+    content: "";
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(0,0,0,.7);
+    opacity: 0;
+    z-index: 999;
+    transition: .5s;
+}
+.psychology-single-blog:hover .psychology-blog-thumb a:before {
+    opacity: 1;
+	transition: .5s;
+}
+.psychology-single-blog:hover .psychology-blog-thumb img{
+	transform:scale(1.1);
+}
+.psychology-blog-thumb img {
+    transition: .5s;
+    display: block;
+}
+.em-blog-content-area {
+    padding: 15px 0px 15px;
+}
+.blog-page-title h2 {
+    display: block;
+    font-size: 22px;
+    margin-bottom: 7px;
+    text-transform: capitalize;
+    -webkit-transition: all .5s ease 0s;
+    transition: all .5s ease 0s;
+}
+.blog-page-title a {
+    display: inline-block;
+    word-break: break-all;
+}
+.blog-content {
+    word-break: break-word;
+}
+.psychology-blog-meta.post_blog h2 a {
+    font-size: 24px;
+	font-weight:700;
+	transition:.5s;
+}
+.psychology-blog-meta.post_blog h2 {
+    margin-bottom: 8px;
+}
+.recent-post-item {
+    margin-bottom: 10px;
+}
+.blog-left-side .widget ul li a, .blog-left-side .widget ul li::before {
+    color: #444;
+}
+.psychology-blog-meta.post_blog h2 a:hover{
+	color:#c94d2f;
+}
+.psychology-single-blog-title h2 {
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.psychology-blog-meta-left a, .psychology-blog-meta-left span {
+    color: #888888;
+    font-size: 16px;
+    margin-right: 5px;
+	margin-bottom:10px;
+	display:inline-block;
+}
+.psychology-blog-meta-left i {
+    color: #c94d2f;
+    margin-right: 5px;
+}
+.blog-content p {
+    font-size: 17px;
+    padding-top: 14px;
+}
+.em-blog-content-area .witr_btn {
+    background: #c94d2f;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px 30px;
+    text-align: center;
+    position: relative;
+    margin-right: 20px;
+    z-index: 2;
+    transition: 1s;
+    font-weight: 400;
+	margin-bottom:15px;
+}
+.em-blog-content-area .witr_btn:hover {
+    background: #323232;
+    color: #fff;
+}
+.witr-blog-side-area.blog_sidebar .psychology-single-blog {
+    margin-bottom: 30px;
+    box-shadow: none;
+    border-bottom: 1px solid #e7e7e7;
+    background: transparent;
+}
+blockquote p {
+    font-size: 20px;
+    position: relative;
+	color:##999;
+}
+.witr-blog-side-area blockquote {
+    background-color: #f7f7f7;
+    border-left: 3px solid  #c94d2f;
+    padding: 1em 1em;
+    margin-top: 15px;
+}
+.recent-post-text h4 {
+    margin: 0px;
+    line-height: 1;
+}
+.recent-post-text h4 a {
+    color: #454545;
+    font-size: 17px;
+    transition: all .3s ease 0s;
+    font-weight: 600;
+}
+.recent-post-text .rcomment {
+    font-size: 14px;
+    text-transform: none;
+}
+.recent-post-text h4 a:hover {
+    color: #c94d2f;
+}
+/* video play css */
+.video-open-inline iframe{
+	width:100%;
+	height:400px;
+	border:none;
+}
+/* =============== End blog left sidebar css =============== */
+/* single blog css */
+.witr-blog-side-area {
+    padding: 100px 0px 100px;
+}
+.comment-respond {
+    border: 1px solid #ddd;
+    margin-bottom: 30px;
+    padding: 25px 10px 30px;
+    background-color: #f1f1f1;
+}
+.single_blog_page{
+	margin-bottom:0px;
+}
+.comment_field .input-field input, .comment_field .textarea-field textarea {
+    color: #555555;
+}
+.comment_field .input-field input {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    padding: 6px 20px;
+    height: 54px;
+    font-size: 17px;
+}
+.comment_field .input-field label, .comment_field .textarea-field label {
+    color: #606060;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+.comment_field .input-field {
+    width: 33.33%;
+    float: left;
+    margin-bottom: 25px;
+}
+.comment_field .textarea-field label {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.comment_field .textarea-field textarea {
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    height: 150px;
+    padding: 10px;
+}
+.psychology_btn {
+    background: transparent;
+    border: 1px solid #ddd;
+    display: inline-block;
+    text-align: center;
+    padding: 12px 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+    transition: .5s;
+    color: #444;
+}
+.psychology_btn:hover {
+    background:#c94d2f;
+	border-color:#c94d2f;
+	color:#fff;
+}
+.single_blog_thumb img {
+    width: 100%;
+    height: 500px;
+}
+blockquote {
+    padding: 25px 32px 25px;
+    margin: 0 0 30px;
+    font-size: 17px;
+    /* border-left: 3px solid #f99a00; */
+    font-weight: 400;
+    box-shadow: 0 0 5px 0px rgb(0 0 0 / 7%);
+}
+blockquote p {
+    font-size: 20px;
+    position: relative;
+}
+.block .wp-block-quote.is-large p, .block .wp-block-quote.is-style-large p {
+    font-size: 1.5em;
+    font-style: italic;
+    line-height: 1.6;
+}
+.witr-blog-side-area.single_blog  blockquote {
+    background-color: #f7f7f7;
+    border-left: none;
+}
+.wp-block-group.block {
+    text-align: center;
+}
+.psychology-single-blog-details-inner {
+    padding: 38px 45px 45px;
+    box-shadow: 0 3px 19px rgb(0 0 0 / 8%);
+    border-radius: 0 0 10px 10px;
+}
+.psychology-single-icon-inner {
+    text-align: center;
+}
+.psychology-single-icon-inner a {
+    border: 1px solid #e6e6e6;
+    color: #17161a;
+    display: inline-block;
+    font-size: 15px;
+    height: 40px;
+    line-height: 41px;
+    margin: 0 9px 0 0;
+    text-align: center;
+    width: 40px;
+    border-radius: 5px;
+	transition:.5s;
+}
+.psychology-single-icon-inner a:hover {
+    background: #c94d2f ;
+    border-color: #c94d2f ;
+    color: #fff;
+}
+.recent-post-image {
+    float: left;
+    margin-right: 13px;
+}
+.recent-post-image img {
+    width: 75px;
+    margin-top: 5px;
+}
+/* ===== 16. Footer Area CSS ===== */
+.witrfm_area {
+    background-color: #282828;
+    position: relative;
+}
+.witrfm_area:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.witrfm_area:before {
+    background-color: rgba(0,80,159,0);
+}
+.footer-middle {
+    background-color: #000000;
+    padding: 67px 0 80px;
+}
+.footer-sociala-info p {
+    margin: 0 0 8px;
+}
+.footer-middle .widget ul li, .footer-middle .widget ul li a, .footer-middle .widget ul li::before, .footer-middle .tagcloud a, .footer-middle caption, .footer-middle table, .footer-middle table td a, .footer-middle cite, .footer-middle .rssSummary, .footer-middle span.rss-date, .footer-middle span.comment-author-link, .footer-middle .textwidget p, .footer-middle .widget .spsychologyeen-reader-text, mc4wp-form-fields p, .mc4wp-form-fields, .footer-m-address p, .footer-m-address, .footer-widget.address, .footer-widget.address p, .mc4wp-form-fields p, .poket-despsychologyiption-area p, .poket-despsychologyiption-area .phone a, .poket-despsychologyiption-area .social-icons a, .recent-review-content h3, .recent-review-content h3 a, .recent-review-content p, .footer-middle .poket-despsychologyiption-area p, .footer-middle .recent-post-text h4 a, .footer-middle .recent-post-text .rcomment, .witr_sub_table span {
+    color: #ffffff;
+}
+.footer-middle .widget h2 {
+    color: #ffffff;
+}
+.footer-middle .widget h2 {
+    margin-bottom: 28px;
+    margin-top: 28px;
+    position: relative;
+}
+.footer-middle .single-widget-item h2 {
+    color: #ffffff;
+	margin-bottom: 28px;
+    margin-top: 28px;
+}
+.footer-middle .recent-post-text h4 a {
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: -10px;
+}
+.footer-middle .recent-post-text>h4 {
+    margin-bottom: 0;
+    font-weight: 400;
+    line-height: .7;
+    margin-top: 10px;
+}
+.recent-post-image {
+    float: left;
+    margin-right: 15px;
+    margin-top: 4px;
+}
+.footer-middle .recent-post-text .rcomment {
+    font-size: 16px;
+    font-weight: 400;
+}
+.footer-middle .widget ul li {
+    margin-bottom: 10px;
+}
+.footer-middle .widget ul li a:hover, .footer-middle .widget ul li:hover:before {
+    color: #c94d2f;
+}
+.poket-despsychologyiption-area a img {
+    margin: 26px 0;
+}
+.poket-despsychologyiption-area .social-icons a {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 4px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background: #a3a3a378;
+}
+.poket-despsychologyiption-area .social-icons a:hover {
+    background: #c94d2f;
+    border-color: #c94d2f;
+}
+.footer-sociala-icon {
+    clear: both;
+    float: left;
+    font-size: 18px;
+    margin-right: 12px;
+}
+.witr_sub_table {
+    border-bottom: 1px solid #ffffff8c;
+}
+.witr_sub_table {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+}
+/* footer bottom area css */
+.footer-bottom {
+    padding: 26px 0 24px;
+    position: relative;
+    background: #000000e3;
+}
+.footer-bottom:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    height: 1px;
+    width: 61%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.footer-bottom:before {
+    background: #ffffff61;
+}
+.copy-right-text {
+    text-align: left;
+}
+.copy-right-text p {
+    margin: 0;
+    padding: 0;
+}
+.copy-right-text p, .footer-menu ul li a {
+    color: #ffffff;
+}
+.footer-menu ul li {
+    display: inline-block;
+}
+.footer-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.footer-menu ul li a {
+    padding: 0 10px;
+    display: block;
+}
+.copy-right-text a, .footer-menu ul li a:hover {
+    color: #c94d2f;
+}
+/* spsychologyoll up css */
+#scrollUp {
+    bottom: 30px;
+    font-size: 30px;
+    height: 40px;
+    line-height: 40px;
+    right: 100px;
+    text-align: center;
+    border-radius:0;
+    width: 40px;
+	background: #c94d2f;
+}
+#scrollUp i {
+    color: #fff;
+}
+/* slick slide css */
+.slick-dots li button {
+    font-size: 0;
+    width: 40px;
+    height: 15px;
+    border: 0 solid #c94d2f5c;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 0;
+    padding: 0;
+    -webkit-transition: .5s;
+    transition: .5s;
+    outline: 0;
+    background: #c94d2f5c;
+}
+.slick-dots li.slick-active button {
+    background: #c94d2f;
+}
+.slick-dots li {
+    display: inline-block;
+}
+.slick-dots {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: -72px;
+    display: inline-block;
+    z-index: 11;
+    text-align: center;
+}
+/* slick prev slick next css */
+/*======== slick ========*/
+.slick-prev, .slick-next {
+    font-size: 0;
+    position: absolute;
+    display: block;
+    padding: 0;
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    background: #ff3d0;
+    z-index: 9;
+    opacity: 0;
+    border-radius: 0px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    top: 50%;
+    transform: translate(0px, -50%);
+    transition: .5s;
+    border: 0px solid #17161a;
+    background:#c94d2f;
+}
+ .slick-prev {
+     left: -15px;
+}
+ .slick-next {
+     right: -15px;
+}
+.slick-next:before, .slick-prev:before {
+    color: #fff;
+    font-size: 40px;
+    -webkit-transition: all .3s ease 0s;
+    transition: all .3s ease 0s;
+    content: "\ea93";
+    font-family: IcoFont!important;
+    line-height: inherit;
+    opacity: 1;
+}
+.slick-next:before {
+    content: "\ea94";
+    font-family: IcoFont!important;
+}
+.slick-next:focus, .slick-next:hover, .slick-prev:focus, .slick-prev:hover {
+    background: #282828;
+}
+button:focus {
+    outline: 0;
+    outline: 0;
+}
+/* ===== 17. Breadcumb Area CSS ===== */
+ .breadcumb-blog-area {
+     padding: 60px 0 65px;
+     background-color: #f7f7f7;
+     background-position: center top;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+}
+ .breadcumb-inner h2 {
+     font-size: 30px;
+}
+.breadcumb-area {
+    background-image: url("../../images/psychology/breck.jpg");
+    padding: 152px 0px 150px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+ .breadcumb-area:before, .breadcumb-blog-area:before {
+     position: absolute;
+     left: 0;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     content: "";
+}
+.breadcumb-area:before, .breadcumb-blog-area:before {
+    background: rgba(0,0,0,0.5);
+}
+.breadcumb-inner ul, .breadcumb-inner ul span a, .breadcumb-inner li, .breadcumb-inner li a {
+    color: #ffffff;
+    font-display: swap;
+}
+ .breadcumb-inner ul {
+     font-weight: 400;
+}
+.breadcumb-inner li {
+    display: inline-block;
+    color: #fff;
+    font-weight: 400;
+}
+.breadcumb-inner li:nth-last-child(-n+1) {
+    color: #821F05;
+    color: #fff;
+    font-weight: 400;
+}
+ .breadcumb-inner li a {
+     font-weight: 400;
+     color: #fff;
+}
+.breadcumb-inner li a:hover {
+    color: #c94d2f;
+}
+.brpt h2, .breadcumb-inner h2, .brpt.brptsize h2 {
+    color: #ffffff;
+    font-size: 30px;
+}
+/* ===== 18. Working Hours Area CSS ===== */
+.doctor_time_table_area {
+    padding: 100px 0 40px;
+}
+.witr_service_10 {
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 10%);
+    padding: 40px 30px 50px;
+    position: relative;
+    text-align: left;
+    background: #fff;
+    margin-bottom: 30px;
+}
+.witr_service_10:before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 3px;
+    height: 0%;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.witr_service_10:before {
+    background: #c94d2f;
+}
+.witr_service_10:hover:before {
+    height: 40%;
+}
+.detail_SS {
+    position: relative;
+    padding: 0 0 0;
+    z-index: 99;
+}
+.detail_SS h3 {
+    line-height: 31px;
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+.witr_service_10 .service_list_op {
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+.service_list_op ul {
+    padding: 0;
+}
+.service_list_op ul li{
+    list-style: none;
+    margin-bottom: 7px;
+}
+.service_list_op a {
+    color: #454545;
+}
+.service_list_op ul li a:hover, .witr_service_s_12.service-item h2 {
+    color: #c94d2f;
+}
+.service_bottom_list ul li {
+    list-style: disc;
+}
+.service_bottom_list {
+    padding-left: 20px;
+}
+.witr_service_10 .service-btn a {
+    padding: 12px 30px;
+    margin-top: 20px;
+    border: none;
+	border-radius: 0px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Rajdhani', sans-serif;
+	display:inline-block;
+}
+.witr_service_10 .service-btn a {
+    background: #c94d2f26;
+}
+.wbutton_top_service_icon a, .witr_service2_icon_bottom i, .witr_service_10 .service-btn a, .witr_servicetwo_text a {
+    color: #c94d2f;
+}
+.wirt_detail_texti, .witr_service_10 .service-btn a:hover {
+    background: #c94d2f;
+	color:#fff;
+}
+.doctor_time_table_area .witr_section_title_inner p {
+    margin-top: 0;
+}
+/* ===== 19. Time Table Area CSS ===== */
+.time_table_area {
+    padding: 100px 0 80px;
+}
+.time_table_area .departmentList {
+    position: relative;
+    padding: 73px 30px 65px;
+    border-radius: 10px;
+    background-size: cover;
+    text-align: left;
+    box-shadow: 0px 0px 54px 0px rgb(0 0 0 / 4%);
+    margin-bottom: 20px;
+}
+.time_table_area .departmentList h3 {
+    margin-bottom: 22px;
+}
+.time_table_area .departmentList h3 a {
+    font-size: 30px;
+}
+.time_table_area .departmentList ul li a, .time_table_area .departmentList ul li span {
+    font-size: 18px;
+    display: block;
+    padding: 3px 7px;
+    margin-bottom: 1px;
+    color: #272727;
+    background: transparent;
+    font-family: Rubik,sans-serif;
+    font-weight: 400;
+}
+.time_table_area .departmentList ul li a i, .time_table_area .departmentList ul li span i {
+    background:transparent;
+}
+.time_table_area .departmentList ul li a i, .time_table_area .departmentList ul li span i {
+    width: 15px;
+    margin: 0;
+}
+.time_table_area .departmentList ul li a:hover, .time_table_area .departmentList ul li a i:hover{
+    color: #c94d2f;
+}
+.time_table_area img {
+    margin-bottom: 30px;
+}
+
+/* ===== 20. Track Area CSS ===== */
+.psychology_shipment_time_area {
+    background: #f9f9f9;
+    padding: 120px 0 100px;
+}
+.psychology_shipment_time_area .all_list_color {
+    text-align: left;
+    background-color: #fff;
+    box-shadow: 0px 0px 54px 0px rgba(0,0,0,.04);
+    border-style: default;
+}
+.psychology_shipment_time_area .departmentList {
+    position: relative;
+    padding: 73px 32px 65px;
+    border-radius: 10px;
+    background-size: cover;
+}
+.psychology_shipment_time_area .departmentList h3 {
+    margin-bottom: 22px;
+}
+.psychology_shipment_time_area .departmentList ul li a i, .psychology_shipment_time_area .departmentList ul li span i {
+    color: #000;
+    background-color: transparent;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    text-align: center;
+    margin: 0;
+}
+.psychology_shipment_time_area .departmentList h3 a {
+    font-size: 30px;
+}
+.psychology_shipment_time_area .departmentList ul li a, .psychology_shipment_time_area .departmentList ul li span {
+    font-size: 18px;
+    display: block;
+    padding: 9px 7px;
+    margin-bottom: 1px;
+    color: #272727;
+    font-weight: 400;
+    font-family: Poppins,sans-serif;
+}
+.psychology_shipment_time_area .departmentList ul li a i, .psychology_shipment_time_area .departmentList ul li span i {
+    display: inline-block;
+    margin-top: 4px;
+    text-align: center;
+    margin-right: 18px;
+}
+.shipment_img_inner .single_image img {
+    padding: 0 40px 20px 10px;
+}
+.psychology_shipment_time_area .departmentList ul li a:hover {
+    color: #c94d2f;
+}
+.departmentList .discover_more {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 35px;
+    color: #272727;
+}
+.departmentList .discover_more:hover {
+    color: #c94d2f;
+}
+
+/* ===== 21. Portfolio Area CSS ===== */
+.psychology_portfolio_area {
+    padding: 92px 0px 85px;
+}
+.psychology_portfolio_area .witr_section_title_inner p {
+    width: 39%;
+    margin: 0 auto 0;
+    padding: 10px 0px 0px 0px;
+}
+.psychology_portfolio_area .witr_section_title {
+    margin-bottom: 50px;
+}
+.portfolio_style2 .witr_section_title {
+    margin-bottom: 35px;
+}
+.portfolio_grid_area .portfolio_nav {
+    padding: 0px 0 45px;
+}
+.em_portfolio_area .witr_section_title {
+    position: relative;
+    padding-bottom: 35px;
+}
+.positi_3.pprotfolio4 {
+    padding: 20px 10px 23px;
+    border: none;
+    position: absolute;
+    bottom: -100px;
+    left: 0;
+    right: 0;
+    z-index: 9;
+    -webkit-transition: .5s;
+    transition: .5s;
+    text-align: center;
+}
+.single_protfolio:hover .positi_3.pprotfolio4 {
+    bottom: 0;
+}
+.positi_3.pprotfolio4 {
+    background: #c94d2f;
+}
+.positi_3 .porttitle_inner4 h3 a, .positi_3 .porttitle_inner4 p span {
+    color: #fff;
+}
+.portfolio_nav {
+    padding: 0px 0 45px;
+}
+.portfolio_nav ul {}
+ .portfolio_nav ul li {
+    display: inline;
+}
+.portfolio_nav ul li {
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 500;
+    margin: 0 5px 10px;
+    padding: 10px 20px;
+    position: relative;
+    transition: .5s;
+    border: 1px solid #f3eaea;
+    font-size: 16px !important;
+}
+.prot_wrap {
+    overflow: hidden;
+}
+.single_protfolio {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 25px;
+}
+.prot_thumb {} .prot_thumb img {
+    display: block;
+    transform: scale(1);
+    transition: all 0.5s ease 0s;
+    width: 100%;
+}
+.single_protfolio:hover .prot_thumb img {
+    transform: scale(1.1);
+}
+.prot_content {
+    position: absolute;
+    text-align: center;    
+    transition: .5s;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    z-index: 9;
+}
+.multi_gallery.prot_content {
+    height: 90%;
+    width: 80%;
+    right: 10%;
+    top: 5%;
+    bottom: 5%;
+    left: 10%;
+}
+.single_protfolio:hover .prot_content {
+    opacity: 1;
+}
+.prot_content h3 {
+    margin: 0;
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.prot_content h3 a {
+    font-size: 23px;
+    font-weight: 700;
+    text-transform: capitalize;
+    -webkit-transition: .5s;
+    transition: .5s;
+    color: #fff;
+    margin-bottom: 0;
+    display: inline-block;
+}
+.prot_content h3 a:hover {
+    color: #c94d2f;
+}
+.prot_content p {
+    line-height: 1.2;
+    margin: 5px 0 0;
+}
+.prot_content p span {
+    display: inline-block;
+    color: #fff;
+}
+.single_protfolio:hover .prot_content {
+    opacity: 1;
+    transform: scale(1, 1);
+}
+.porttitle_inner span,
+.porttitle_inner4 span,
+.prot_content span {
+    position: relative;
+    margin: 0 2px;
+}
+.prot_content span:before,
+.porttitle_inner4 span:before,
+.porttitle_inner span:before {
+    bottom: 0;
+    content: ",";
+    position: absolute;
+    right: -5px;
+}
+.porttitle_inner span:last-child:before,
+.prot_content span:last-child:before,
+.porttitle_inner4 span:last-child:before {
+    content: "";
+}
+.nospace.col-xs-12 {
+    padding: 0px;
+}
+.nospace .single_protfolio {
+    margin-bottom: 0px;
+}
+/* load button css */
+.gallery_load_button {} .gallery_load_button a {
+    padding: 7px 15px;
+    display: inline-block;
+    font-size: 17px;
+    margin-top: 0px;
+}
+.prot_wrap.nospace .gallery_load_button a {
+    margin-top: 30px;
+}
+/* single portfolio */
+.pimgs img {
+    height: 465px;
+    width: 100%;
+}
+.prots-contentg p {} 
+/*style 1 */
+.em_port_content {
+    height: 100%;
+    opacity: 1;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    transition: all 0.5s ease 0s;
+    width: 100%;
+    z-index: 9;
+    left: 0;
+    top: -100%;
+    width: 100%;   
+    transition: .5s;
+    text-align: center;
+}
+.pstyle_1 .porttitle_inner h3 {
+    padding-bottom: 0px;
+}
+.pstyle_1 .prot_content p {
+    margin: 2px 0 0;
+}
+.pstyle_1 .single_protfolio {   
+    -webkit-transition: .5s;   
+    transition: .5s;
+}
+.portfolio_readmore_btn {
+    padding-top: 23px;
+}
+.portfolio_readmore_btn > a {
+    border-radius: 5px;
+    display: inline-block;
+    padding: 6px 21px;
+    text-transform: uppercase;   
+    -webkit-transition: .3s;   
+    transition: .3s;
+    border: 1px solid transparent;
+}
+.pstyle_1 .picon a {
+    background: transparent;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 25px;
+    height: 50px;
+    line-height: 50px;
+    margin: 0 8px 11px;
+    width: 50px;
+    transition: .5s;
+    color: #fff;
+}
+.picon a:hover {
+    border-color: #191f2d;
+    background: #191f2d;
+}
+.pstyle4 .prot_thumb {
+    overflow: hidden;
+    position: relative;
+}
+.pprotfolio4 {
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.7);
+    padding: 17px 10px 20px;
+}
+.pprotfolio4 {
+    padding: 20px 10px 23px;
+}
+.porttitle_inner4 h3 {
+    margin: 0;
+}
+.porttitle_inner4 h3 a {}
+.porttitle_inner4 p {
+	margin-bottom: 0;	
+}
+.porttitle_inner4 p span {
+    display: inline-block;
+}
+.portfolio_nav ul li.current_menu_item, .portfolio_nav ul li:hover {
+    border-color: #c94d2f;
+	background: #c94d2f;
+	color: #fff;
+}
+.prot_content {
+    background: #c94d2f80;
+}
+.pprotfolio4 {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,.7);
+    padding: 30px 10px 30px;
+    border: 1px solid #f1f1f1;
+    border-top: 0 solid #f1f1f1;
+}
+.portfolio_nav {
+    text-align: center;
+}
+.page-numbers span.current, .paginations a.current, .paginations a:hover {
+    border-color: #c94d2f;
+	 background: #c94d2f;
+	 color: #fff;
+}
+ul.page-numbers a.page-numbers {
+    box-shadow: 0 10px 40px 0 rgba(50,65,141,.12);
+}
+.page-numbers, .tutor-pagination-wrap a, .tutor-pagination-wrap span.page-numbers.current, a.page-numbers {
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 15px 24px;
+    font-size: 19px;
+    line-height: 1;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.page-numbers span.current, .paginations a {
+    display: inline-block;
+    font-weight: 500;
+    margin: auto 5px;
+}
+ .paginations a {
+    color: #888;
+}
+.page-numbers li {
+    display: inline-block;
+}
+.paginations {
+    text-align: center;
+    margin-top: 10px;
+}
+.portfolio_4column_gutter .single_protfolio {
+    margin-bottom: 0px;
+}
+/* port style 3 */
+.em_plus_port {
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+}
+.prot_content_inner {
+    left: 50%;
+    position: absolute;
+    top: 54%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    width: 100%;
+    z-index: 10;
+    -webkit-transition: all .3s ease-in-out .3s;
+    transition: all .3s ease-in-out .3s;
+    opacity: 0;
+}
+ .single_protfolio:hover .prot_content_inner {
+    top: 50%;
+    opacity: 1;
+}
+.picon a {
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 20px;
+    height: 50px;
+    line-height: 50px;
+    margin: 0 3px 11px;
+    width: 50px;
+    text-align: center;
+    color: #fff;
+    background: #c94d2f;
+}
+.picon a:hover {
+	border-color: #555;
+    background-color: #c94d2f;
+}
+/* style 1 */
+.em_port_content {
+    height: 100%;
+    opacity: 1;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    -webkit-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+    width: 100%;
+    z-index: 9;
+    left: 0;
+    top: -100%;
+    width: 100%;   
+    -webkit-transition: .5s;   
+    transition: .5s;
+    text-align: center;
+}
+.pstyle_1 .porttitle_inner h3 {
+    padding-bottom: 0px;
+}
+.pstyle_1 .porttitle_inner h3 a {} .pstyle_1 .porttitle_inner p {
+}
+.pstyle_1 .prot_content p {
+    margin: 2px 0 0;
+}
+.pstyle_1 .single_protfolio {   
+    -webkit-transition: .5s;   
+    transition: .5s;
+}
+.portfolio_readmore_btn {
+    padding-top: 23px;
+}
+.portfolio_readmore_btn > a {
+    border-radius: 5px;
+    display: inline-block;
+    padding: 6px 21px;
+    text-transform: uppercase;   
+    -webkit-transition: .3s;   
+    transition: .3s;
+    border: 1px solid transparent;
+}
+.portfolio_style2 .prot_content_inner {
+    transition: none;
+    opacity: 1;
+}
+/* ===== Portfolio Area CSS ===== */
+.portfolio_grid .pstyle4 .prot_thumb {
+    overflow: hidden;
+    position: relative;
+}
+.portfolio_grid .prot_thumb img {
+    display: block;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: all .5s ease 0s;
+    transition: all .5s ease 0s;
+    width: 100%;
+}
+.pprotfolio4 {
+    box-shadow: 0 10px 16px 0 rgb(0 0 0 / 70%);
+    padding: 20px 10px 23px;
+    border: 1px solid #f1f1f1;
+    border-top: 0 solid #f1f1f1;
+}
+.portfolio_grid .prot_content {
+    position: absolute;
+    text-align: center;
+    -webkit-transition: .5s;
+    transition: .5s;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    z-index: 9;
+}
+.porttitle_inner4 h3, .porttitle_inner4 h3 a, .porttitle_inner4 p {
+    color: #454545;
+}
+
+
+
+
+
+
+
+
+
+ .tx_golobal_color{
+     background: #c94d2f;
+}
+ .tx_btn_global_color:hover{
+     background:#c94d2f;
+}
